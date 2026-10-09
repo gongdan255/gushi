@@ -1,0 +1,7879 @@
+{
+  "repository": "https://github.com/chinese-poetry/chinese-poetry",
+  "commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "files": [
+    "全唐诗/poet.song.0.json",
+    "全唐诗/poet.song.1000.json",
+    "全唐诗/poet.song.10000.json",
+    "全唐诗/poet.song.100000.json",
+    "全唐诗/poet.song.101000.json",
+    "全唐诗/poet.song.102000.json",
+    "全唐诗/poet.song.103000.json",
+    "全唐诗/poet.song.104000.json",
+    "全唐诗/poet.song.105000.json",
+    "全唐诗/poet.song.106000.json",
+    "全唐诗/poet.song.107000.json",
+    "全唐诗/poet.song.108000.json",
+    "全唐诗/poet.song.109000.json",
+    "全唐诗/poet.song.11000.json",
+    "全唐诗/poet.song.110000.json",
+    "全唐诗/poet.song.111000.json",
+    "全唐诗/poet.song.112000.json",
+    "全唐诗/poet.song.113000.json",
+    "全唐诗/poet.song.114000.json",
+    "全唐诗/poet.song.115000.json",
+    "全唐诗/poet.song.116000.json",
+    "全唐诗/poet.song.117000.json",
+    "全唐诗/poet.song.118000.json",
+    "全唐诗/poet.song.119000.json",
+    "全唐诗/poet.song.12000.json",
+    "全唐诗/poet.song.120000.json",
+    "全唐诗/poet.song.121000.json",
+    "全唐诗/poet.song.122000.json",
+    "全唐诗/poet.song.123000.json",
+    "全唐诗/poet.song.124000.json",
+    "全唐诗/poet.song.125000.json",
+    "全唐诗/poet.song.126000.json",
+    "全唐诗/poet.song.127000.json",
+    "全唐诗/poet.song.128000.json",
+    "全唐诗/poet.song.129000.json",
+    "全唐诗/poet.song.13000.json",
+    "全唐诗/poet.song.130000.json",
+    "全唐诗/poet.song.131000.json",
+    "全唐诗/poet.song.132000.json",
+    "全唐诗/poet.song.133000.json",
+    "全唐诗/poet.song.134000.json",
+    "全唐诗/poet.song.135000.json",
+    "全唐诗/poet.song.136000.json",
+    "全唐诗/poet.song.137000.json",
+    "全唐诗/poet.song.138000.json",
+    "全唐诗/poet.song.139000.json",
+    "全唐诗/poet.song.14000.json",
+    "全唐诗/poet.song.140000.json",
+    "全唐诗/poet.song.141000.json",
+    "全唐诗/poet.song.142000.json",
+    "全唐诗/poet.song.143000.json",
+    "全唐诗/poet.song.144000.json",
+    "全唐诗/poet.song.145000.json",
+    "全唐诗/poet.song.146000.json",
+    "全唐诗/poet.song.147000.json",
+    "全唐诗/poet.song.148000.json",
+    "全唐诗/poet.song.149000.json",
+    "全唐诗/poet.song.15000.json",
+    "全唐诗/poet.song.150000.json",
+    "全唐诗/poet.song.151000.json",
+    "全唐诗/poet.song.152000.json",
+    "全唐诗/poet.song.153000.json",
+    "全唐诗/poet.song.154000.json",
+    "全唐诗/poet.song.155000.json",
+    "全唐诗/poet.song.156000.json",
+    "全唐诗/poet.song.157000.json",
+    "全唐诗/poet.song.158000.json",
+    "全唐诗/poet.song.159000.json",
+    "全唐诗/poet.song.16000.json",
+    "全唐诗/poet.song.160000.json",
+    "全唐诗/poet.song.161000.json",
+    "全唐诗/poet.song.162000.json",
+    "全唐诗/poet.song.163000.json",
+    "全唐诗/poet.song.164000.json",
+    "全唐诗/poet.song.165000.json",
+    "全唐诗/poet.song.166000.json",
+    "全唐诗/poet.song.167000.json",
+    "全唐诗/poet.song.168000.json",
+    "全唐诗/poet.song.169000.json",
+    "全唐诗/poet.song.17000.json",
+    "全唐诗/poet.song.170000.json",
+    "全唐诗/poet.song.171000.json",
+    "全唐诗/poet.song.172000.json",
+    "全唐诗/poet.song.173000.json",
+    "全唐诗/poet.song.174000.json",
+    "全唐诗/poet.song.175000.json",
+    "全唐诗/poet.song.176000.json",
+    "全唐诗/poet.song.177000.json",
+    "全唐诗/poet.song.178000.json",
+    "全唐诗/poet.song.179000.json",
+    "全唐诗/poet.song.18000.json",
+    "全唐诗/poet.song.180000.json",
+    "全唐诗/poet.song.181000.json",
+    "全唐诗/poet.song.182000.json",
+    "全唐诗/poet.song.183000.json",
+    "全唐诗/poet.song.184000.json",
+    "全唐诗/poet.song.185000.json",
+    "全唐诗/poet.song.186000.json",
+    "全唐诗/poet.song.187000.json",
+    "全唐诗/poet.song.188000.json",
+    "全唐诗/poet.song.189000.json",
+    "全唐诗/poet.song.19000.json",
+    "全唐诗/poet.song.190000.json",
+    "全唐诗/poet.song.191000.json",
+    "全唐诗/poet.song.192000.json",
+    "全唐诗/poet.song.193000.json",
+    "全唐诗/poet.song.194000.json",
+    "全唐诗/poet.song.195000.json",
+    "全唐诗/poet.song.196000.json",
+    "全唐诗/poet.song.197000.json",
+    "全唐诗/poet.song.198000.json",
+    "全唐诗/poet.song.199000.json",
+    "全唐诗/poet.song.2000.json",
+    "全唐诗/poet.song.20000.json",
+    "全唐诗/poet.song.200000.json",
+    "全唐诗/poet.song.201000.json",
+    "全唐诗/poet.song.202000.json",
+    "全唐诗/poet.song.203000.json",
+    "全唐诗/poet.song.204000.json",
+    "全唐诗/poet.song.205000.json",
+    "全唐诗/poet.song.206000.json",
+    "全唐诗/poet.song.207000.json",
+    "全唐诗/poet.song.208000.json",
+    "全唐诗/poet.song.209000.json",
+    "全唐诗/poet.song.21000.json",
+    "全唐诗/poet.song.210000.json",
+    "全唐诗/poet.song.211000.json",
+    "全唐诗/poet.song.212000.json",
+    "全唐诗/poet.song.213000.json",
+    "全唐诗/poet.song.214000.json",
+    "全唐诗/poet.song.215000.json",
+    "全唐诗/poet.song.216000.json",
+    "全唐诗/poet.song.217000.json",
+    "全唐诗/poet.song.218000.json",
+    "全唐诗/poet.song.219000.json",
+    "全唐诗/poet.song.22000.json",
+    "全唐诗/poet.song.220000.json",
+    "全唐诗/poet.song.221000.json",
+    "全唐诗/poet.song.222000.json",
+    "全唐诗/poet.song.223000.json",
+    "全唐诗/poet.song.224000.json",
+    "全唐诗/poet.song.225000.json",
+    "全唐诗/poet.song.226000.json",
+    "全唐诗/poet.song.227000.json",
+    "全唐诗/poet.song.228000.json",
+    "全唐诗/poet.song.229000.json",
+    "全唐诗/poet.song.23000.json",
+    "全唐诗/poet.song.230000.json",
+    "全唐诗/poet.song.231000.json",
+    "全唐诗/poet.song.232000.json",
+    "全唐诗/poet.song.233000.json",
+    "全唐诗/poet.song.234000.json",
+    "全唐诗/poet.song.235000.json",
+    "全唐诗/poet.song.236000.json",
+    "全唐诗/poet.song.237000.json",
+    "全唐诗/poet.song.238000.json",
+    "全唐诗/poet.song.239000.json",
+    "全唐诗/poet.song.24000.json",
+    "全唐诗/poet.song.240000.json",
+    "全唐诗/poet.song.241000.json",
+    "全唐诗/poet.song.242000.json",
+    "全唐诗/poet.song.243000.json",
+    "全唐诗/poet.song.244000.json",
+    "全唐诗/poet.song.245000.json",
+    "全唐诗/poet.song.246000.json",
+    "全唐诗/poet.song.247000.json",
+    "全唐诗/poet.song.248000.json",
+    "全唐诗/poet.song.249000.json",
+    "全唐诗/poet.song.25000.json",
+    "全唐诗/poet.song.250000.json",
+    "全唐诗/poet.song.251000.json",
+    "全唐诗/poet.song.252000.json",
+    "全唐诗/poet.song.253000.json",
+    "全唐诗/poet.song.254000.json",
+    "全唐诗/poet.song.26000.json",
+    "全唐诗/poet.song.27000.json",
+    "全唐诗/poet.song.28000.json",
+    "全唐诗/poet.song.29000.json",
+    "全唐诗/poet.song.3000.json",
+    "全唐诗/poet.song.30000.json",
+    "全唐诗/poet.song.31000.json",
+    "全唐诗/poet.song.32000.json",
+    "全唐诗/poet.song.33000.json",
+    "全唐诗/poet.song.34000.json",
+    "全唐诗/poet.song.35000.json",
+    "全唐诗/poet.song.36000.json",
+    "全唐诗/poet.song.37000.json",
+    "全唐诗/poet.song.38000.json",
+    "全唐诗/poet.song.39000.json",
+    "全唐诗/poet.song.4000.json",
+    "全唐诗/poet.song.40000.json",
+    "全唐诗/poet.song.41000.json",
+    "全唐诗/poet.song.42000.json",
+    "全唐诗/poet.song.43000.json",
+    "全唐诗/poet.song.44000.json",
+    "全唐诗/poet.song.45000.json",
+    "全唐诗/poet.song.46000.json",
+    "全唐诗/poet.song.47000.json",
+    "全唐诗/poet.song.48000.json",
+    "全唐诗/poet.song.49000.json",
+    "全唐诗/poet.song.5000.json",
+    "全唐诗/poet.song.50000.json",
+    "全唐诗/poet.song.51000.json",
+    "全唐诗/poet.song.52000.json",
+    "全唐诗/poet.song.53000.json",
+    "全唐诗/poet.song.54000.json",
+    "全唐诗/poet.song.55000.json",
+    "全唐诗/poet.song.56000.json",
+    "全唐诗/poet.song.57000.json",
+    "全唐诗/poet.song.58000.json",
+    "全唐诗/poet.song.59000.json",
+    "全唐诗/poet.song.6000.json",
+    "全唐诗/poet.song.60000.json",
+    "全唐诗/poet.song.61000.json",
+    "全唐诗/poet.song.62000.json",
+    "全唐诗/poet.song.63000.json",
+    "全唐诗/poet.song.64000.json",
+    "全唐诗/poet.song.65000.json",
+    "全唐诗/poet.song.66000.json",
+    "全唐诗/poet.song.67000.json",
+    "全唐诗/poet.song.68000.json",
+    "全唐诗/poet.song.69000.json",
+    "全唐诗/poet.song.7000.json",
+    "全唐诗/poet.song.70000.json",
+    "全唐诗/poet.song.71000.json",
+    "全唐诗/poet.song.72000.json",
+    "全唐诗/poet.song.73000.json",
+    "全唐诗/poet.song.74000.json",
+    "全唐诗/poet.song.75000.json",
+    "全唐诗/poet.song.76000.json",
+    "全唐诗/poet.song.77000.json",
+    "全唐诗/poet.song.78000.json",
+    "全唐诗/poet.song.79000.json",
+    "全唐诗/poet.song.8000.json",
+    "全唐诗/poet.song.80000.json",
+    "全唐诗/poet.song.81000.json",
+    "全唐诗/poet.song.82000.json",
+    "全唐诗/poet.song.83000.json",
+    "全唐诗/poet.song.84000.json",
+    "全唐诗/poet.song.85000.json",
+    "全唐诗/poet.song.86000.json",
+    "全唐诗/poet.song.87000.json",
+    "全唐诗/poet.song.88000.json",
+    "全唐诗/poet.song.89000.json",
+    "全唐诗/poet.song.9000.json",
+    "全唐诗/poet.song.90000.json",
+    "全唐诗/poet.song.91000.json",
+    "全唐诗/poet.song.92000.json",
+    "全唐诗/poet.song.93000.json",
+    "全唐诗/poet.song.94000.json",
+    "全唐诗/poet.song.95000.json",
+    "全唐诗/poet.song.96000.json",
+    "全唐诗/poet.song.97000.json",
+    "全唐诗/poet.song.98000.json",
+    "全唐诗/poet.song.99000.json",
+    "全唐诗/poet.tang.0.json",
+    "全唐诗/poet.tang.1000.json",
+    "全唐诗/poet.tang.10000.json",
+    "全唐诗/poet.tang.11000.json",
+    "全唐诗/poet.tang.12000.json",
+    "全唐诗/poet.tang.13000.json",
+    "全唐诗/poet.tang.14000.json",
+    "全唐诗/poet.tang.15000.json",
+    "全唐诗/poet.tang.16000.json",
+    "全唐诗/poet.tang.17000.json",
+    "全唐诗/poet.tang.18000.json",
+    "全唐诗/poet.tang.19000.json",
+    "全唐诗/poet.tang.2000.json",
+    "全唐诗/poet.tang.20000.json",
+    "全唐诗/poet.tang.21000.json",
+    "全唐诗/poet.tang.22000.json",
+    "全唐诗/poet.tang.23000.json",
+    "全唐诗/poet.tang.24000.json",
+    "全唐诗/poet.tang.25000.json",
+    "全唐诗/poet.tang.26000.json",
+    "全唐诗/poet.tang.27000.json",
+    "全唐诗/poet.tang.28000.json",
+    "全唐诗/poet.tang.29000.json",
+    "全唐诗/poet.tang.3000.json",
+    "全唐诗/poet.tang.30000.json",
+    "全唐诗/poet.tang.31000.json",
+    "全唐诗/poet.tang.32000.json",
+    "全唐诗/poet.tang.33000.json",
+    "全唐诗/poet.tang.34000.json",
+    "全唐诗/poet.tang.35000.json",
+    "全唐诗/poet.tang.36000.json",
+    "全唐诗/poet.tang.37000.json",
+    "全唐诗/poet.tang.38000.json",
+    "全唐诗/poet.tang.39000.json",
+    "全唐诗/poet.tang.4000.json",
+    "全唐诗/poet.tang.40000.json",
+    "全唐诗/poet.tang.41000.json",
+    "全唐诗/poet.tang.42000.json",
+    "全唐诗/poet.tang.43000.json",
+    "全唐诗/poet.tang.44000.json",
+    "全唐诗/poet.tang.45000.json",
+    "全唐诗/poet.tang.46000.json",
+    "全唐诗/poet.tang.47000.json",
+    "全唐诗/poet.tang.48000.json",
+    "全唐诗/poet.tang.49000.json",
+    "全唐诗/poet.tang.5000.json",
+    "全唐诗/poet.tang.50000.json",
+    "全唐诗/poet.tang.51000.json",
+    "全唐诗/poet.tang.52000.json",
+    "全唐诗/poet.tang.53000.json",
+    "全唐诗/poet.tang.54000.json",
+    "全唐诗/poet.tang.55000.json",
+    "全唐诗/poet.tang.56000.json",
+    "全唐诗/poet.tang.57000.json",
+    "全唐诗/poet.tang.6000.json",
+    "全唐诗/poet.tang.7000.json",
+    "全唐诗/poet.tang.8000.json",
+    "全唐诗/poet.tang.9000.json",
+    "宋词/ci.song.0.json",
+    "宋词/ci.song.1000.json",
+    "宋词/ci.song.10000.json",
+    "宋词/ci.song.11000.json",
+    "宋词/ci.song.12000.json",
+    "宋词/ci.song.13000.json",
+    "宋词/ci.song.14000.json",
+    "宋词/ci.song.15000.json",
+    "宋词/ci.song.16000.json",
+    "宋词/ci.song.17000.json",
+    "宋词/ci.song.18000.json",
+    "宋词/ci.song.19000.json",
+    "宋词/ci.song.2000.json",
+    "宋词/ci.song.20000.json",
+    "宋词/ci.song.2019y.json",
+    "宋词/ci.song.21000.json",
+    "宋词/ci.song.3000.json",
+    "宋词/ci.song.4000.json",
+    "宋词/ci.song.5000.json",
+    "宋词/ci.song.6000.json",
+    "宋词/ci.song.7000.json",
+    "宋词/ci.song.8000.json",
+    "宋词/ci.song.9000.json"
+  ],
+  "rawCounts": {
+    "全宋诗": 254248,
+    "全唐诗": 57607,
+    "宋词": 21053
+  },
+  "curatedCount": 527,
+  "count": 366251,
+  "duplicates": 2557,
+  "skipped": 215,
+  "processing": "OpenCC t2s; remove parenthetical notes; deduplicate normalized body, curated entries first; retain original paragraphs. Collection and dynasty follow upstream directories.",
+  "additionalFiles": [
+    "五代诗词/huajianji/huajianji-0-preface.json",
+    "五代诗词/huajianji/huajianji-1-juan.json",
+    "五代诗词/huajianji/huajianji-2-juan.json",
+    "五代诗词/huajianji/huajianji-3-juan.json",
+    "五代诗词/huajianji/huajianji-4-juan.json",
+    "五代诗词/huajianji/huajianji-5-juan.json",
+    "五代诗词/huajianji/huajianji-6-juan.json",
+    "五代诗词/huajianji/huajianji-7-juan.json",
+    "五代诗词/huajianji/huajianji-8-juan.json",
+    "五代诗词/huajianji/huajianji-9-juan.json",
+    "五代诗词/huajianji/huajianji-x-juan.json",
+    "五代诗词/nantang/authors.json",
+    "五代诗词/nantang/intro.json",
+    "五代诗词/nantang/poetrys.json",
+    "元曲/yuanqu.json",
+    "全唐诗/唐诗三百首.json",
+    "全唐诗/唐诗补录.json",
+    "四书五经/daxue.json",
+    "四书五经/mengzi.json",
+    "四书五经/zhongyong.json",
+    "宋词/宋词三百首.json",
+    "幽梦影/youmengying.json",
+    "御定全唐詩/json/001.json",
+    "御定全唐詩/json/002.json",
+    "御定全唐詩/json/003.json",
+    "御定全唐詩/json/004.json",
+    "御定全唐詩/json/005.json",
+    "御定全唐詩/json/006.json",
+    "御定全唐詩/json/007.json",
+    "御定全唐詩/json/008.json",
+    "御定全唐詩/json/009.json",
+    "御定全唐詩/json/010.json",
+    "御定全唐詩/json/011.json",
+    "御定全唐詩/json/012.json",
+    "御定全唐詩/json/013.json",
+    "御定全唐詩/json/014.json",
+    "御定全唐詩/json/015.json",
+    "御定全唐詩/json/016.json",
+    "御定全唐詩/json/017.json",
+    "御定全唐詩/json/018.json",
+    "御定全唐詩/json/019.json",
+    "御定全唐詩/json/020.json",
+    "御定全唐詩/json/021.json",
+    "御定全唐詩/json/022.json",
+    "御定全唐詩/json/023.json",
+    "御定全唐詩/json/024.json",
+    "御定全唐詩/json/025.json",
+    "御定全唐詩/json/026.json",
+    "御定全唐詩/json/027.json",
+    "御定全唐詩/json/028.json",
+    "御定全唐詩/json/029.json",
+    "御定全唐詩/json/030.json",
+    "御定全唐詩/json/031.json",
+    "御定全唐詩/json/032.json",
+    "御定全唐詩/json/033.json",
+    "御定全唐詩/json/034.json",
+    "御定全唐詩/json/035.json",
+    "御定全唐詩/json/036.json",
+    "御定全唐詩/json/037.json",
+    "御定全唐詩/json/038.json",
+    "御定全唐詩/json/039.json",
+    "御定全唐詩/json/040.json",
+    "御定全唐詩/json/041.json",
+    "御定全唐詩/json/042.json",
+    "御定全唐詩/json/043.json",
+    "御定全唐詩/json/044.json",
+    "御定全唐詩/json/045.json",
+    "御定全唐詩/json/046.json",
+    "御定全唐詩/json/047.json",
+    "御定全唐詩/json/048.json",
+    "御定全唐詩/json/049.json",
+    "御定全唐詩/json/050.json",
+    "御定全唐詩/json/051.json",
+    "御定全唐詩/json/052.json",
+    "御定全唐詩/json/053.json",
+    "御定全唐詩/json/054.json",
+    "御定全唐詩/json/055.json",
+    "御定全唐詩/json/056.json",
+    "御定全唐詩/json/057.json",
+    "御定全唐詩/json/058.json",
+    "御定全唐詩/json/059.json",
+    "御定全唐詩/json/060.json",
+    "御定全唐詩/json/061.json",
+    "御定全唐詩/json/062.json",
+    "御定全唐詩/json/063.json",
+    "御定全唐詩/json/064.json",
+    "御定全唐詩/json/065.json",
+    "御定全唐詩/json/066.json",
+    "御定全唐詩/json/067.json",
+    "御定全唐詩/json/068.json",
+    "御定全唐詩/json/069.json",
+    "御定全唐詩/json/070.json",
+    "御定全唐詩/json/071.json",
+    "御定全唐詩/json/072.json",
+    "御定全唐詩/json/073.json",
+    "御定全唐詩/json/074.json",
+    "御定全唐詩/json/075.json",
+    "御定全唐詩/json/076.json",
+    "御定全唐詩/json/077.json",
+    "御定全唐詩/json/078.json",
+    "御定全唐詩/json/079.json",
+    "御定全唐詩/json/080.json",
+    "御定全唐詩/json/081.json",
+    "御定全唐詩/json/082.json",
+    "御定全唐詩/json/083.json",
+    "御定全唐詩/json/084.json",
+    "御定全唐詩/json/085.json",
+    "御定全唐詩/json/086.json",
+    "御定全唐詩/json/087.json",
+    "御定全唐詩/json/088.json",
+    "御定全唐詩/json/089.json",
+    "御定全唐詩/json/090.json",
+    "御定全唐詩/json/091.json",
+    "御定全唐詩/json/092.json",
+    "御定全唐詩/json/093.json",
+    "御定全唐詩/json/094.json",
+    "御定全唐詩/json/095.json",
+    "御定全唐詩/json/096.json",
+    "御定全唐詩/json/097.json",
+    "御定全唐詩/json/098.json",
+    "御定全唐詩/json/099.json",
+    "御定全唐詩/json/100.json",
+    "御定全唐詩/json/101.json",
+    "御定全唐詩/json/102.json",
+    "御定全唐詩/json/103.json",
+    "御定全唐詩/json/104.json",
+    "御定全唐詩/json/105.json",
+    "御定全唐詩/json/106.json",
+    "御定全唐詩/json/107.json",
+    "御定全唐詩/json/108.json",
+    "御定全唐詩/json/109.json",
+    "御定全唐詩/json/110.json",
+    "御定全唐詩/json/111.json",
+    "御定全唐詩/json/112.json",
+    "御定全唐詩/json/113.json",
+    "御定全唐詩/json/114.json",
+    "御定全唐詩/json/115.json",
+    "御定全唐詩/json/116.json",
+    "御定全唐詩/json/117.json",
+    "御定全唐詩/json/118.json",
+    "御定全唐詩/json/119.json",
+    "御定全唐詩/json/120.json",
+    "御定全唐詩/json/121.json",
+    "御定全唐詩/json/122.json",
+    "御定全唐詩/json/123.json",
+    "御定全唐詩/json/124.json",
+    "御定全唐詩/json/125.json",
+    "御定全唐詩/json/126.json",
+    "御定全唐詩/json/127.json",
+    "御定全唐詩/json/128.json",
+    "御定全唐詩/json/129.json",
+    "御定全唐詩/json/130.json",
+    "御定全唐詩/json/131.json",
+    "御定全唐詩/json/132.json",
+    "御定全唐詩/json/133.json",
+    "御定全唐詩/json/134.json",
+    "御定全唐詩/json/135.json",
+    "御定全唐詩/json/136.json",
+    "御定全唐詩/json/137.json",
+    "御定全唐詩/json/138.json",
+    "御定全唐詩/json/139.json",
+    "御定全唐詩/json/140.json",
+    "御定全唐詩/json/141.json",
+    "御定全唐詩/json/142.json",
+    "御定全唐詩/json/143.json",
+    "御定全唐詩/json/144.json",
+    "御定全唐詩/json/145.json",
+    "御定全唐詩/json/146.json",
+    "御定全唐詩/json/147.json",
+    "御定全唐詩/json/148.json",
+    "御定全唐詩/json/149.json",
+    "御定全唐詩/json/150.json",
+    "御定全唐詩/json/151.json",
+    "御定全唐詩/json/152.json",
+    "御定全唐詩/json/153.json",
+    "御定全唐詩/json/154.json",
+    "御定全唐詩/json/155.json",
+    "御定全唐詩/json/156.json",
+    "御定全唐詩/json/157.json",
+    "御定全唐詩/json/158.json",
+    "御定全唐詩/json/159.json",
+    "御定全唐詩/json/160.json",
+    "御定全唐詩/json/161.json",
+    "御定全唐詩/json/162.json",
+    "御定全唐詩/json/163.json",
+    "御定全唐詩/json/164.json",
+    "御定全唐詩/json/165.json",
+    "御定全唐詩/json/166.json",
+    "御定全唐詩/json/167.json",
+    "御定全唐詩/json/168.json",
+    "御定全唐詩/json/169.json",
+    "御定全唐詩/json/170.json",
+    "御定全唐詩/json/171.json",
+    "御定全唐詩/json/172.json",
+    "御定全唐詩/json/173.json",
+    "御定全唐詩/json/174.json",
+    "御定全唐詩/json/175.json",
+    "御定全唐詩/json/176.json",
+    "御定全唐詩/json/177.json",
+    "御定全唐詩/json/178.json",
+    "御定全唐詩/json/179.json",
+    "御定全唐詩/json/180.json",
+    "御定全唐詩/json/181.json",
+    "御定全唐詩/json/182.json",
+    "御定全唐詩/json/183.json",
+    "御定全唐詩/json/184.json",
+    "御定全唐詩/json/185.json",
+    "御定全唐詩/json/186.json",
+    "御定全唐詩/json/187.json",
+    "御定全唐詩/json/188.json",
+    "御定全唐詩/json/189.json",
+    "御定全唐詩/json/190.json",
+    "御定全唐詩/json/191.json",
+    "御定全唐詩/json/192.json",
+    "御定全唐詩/json/193.json",
+    "御定全唐詩/json/194.json",
+    "御定全唐詩/json/195.json",
+    "御定全唐詩/json/196.json",
+    "御定全唐詩/json/197.json",
+    "御定全唐詩/json/198.json",
+    "御定全唐詩/json/199.json",
+    "御定全唐詩/json/200.json",
+    "御定全唐詩/json/201.json",
+    "御定全唐詩/json/202.json",
+    "御定全唐詩/json/203.json",
+    "御定全唐詩/json/204.json",
+    "御定全唐詩/json/205.json",
+    "御定全唐詩/json/206.json",
+    "御定全唐詩/json/207.json",
+    "御定全唐詩/json/208.json",
+    "御定全唐詩/json/209.json",
+    "御定全唐詩/json/210.json",
+    "御定全唐詩/json/211.json",
+    "御定全唐詩/json/212.json",
+    "御定全唐詩/json/213.json",
+    "御定全唐詩/json/214.json",
+    "御定全唐詩/json/215.json",
+    "御定全唐詩/json/216.json",
+    "御定全唐詩/json/217.json",
+    "御定全唐詩/json/218.json",
+    "御定全唐詩/json/219.json",
+    "御定全唐詩/json/220.json",
+    "御定全唐詩/json/221.json",
+    "御定全唐詩/json/222.json",
+    "御定全唐詩/json/223.json",
+    "御定全唐詩/json/224.json",
+    "御定全唐詩/json/225.json",
+    "御定全唐詩/json/226.json",
+    "御定全唐詩/json/227.json",
+    "御定全唐詩/json/228.json",
+    "御定全唐詩/json/229.json",
+    "御定全唐詩/json/230.json",
+    "御定全唐詩/json/231.json",
+    "御定全唐詩/json/232.json",
+    "御定全唐詩/json/233.json",
+    "御定全唐詩/json/234.json",
+    "御定全唐詩/json/235.json",
+    "御定全唐詩/json/236.json",
+    "御定全唐詩/json/237.json",
+    "御定全唐詩/json/238.json",
+    "御定全唐詩/json/239.json",
+    "御定全唐詩/json/240.json",
+    "御定全唐詩/json/241.json",
+    "御定全唐詩/json/242.json",
+    "御定全唐詩/json/243.json",
+    "御定全唐詩/json/244.json",
+    "御定全唐詩/json/245.json",
+    "御定全唐詩/json/246.json",
+    "御定全唐詩/json/247.json",
+    "御定全唐詩/json/248.json",
+    "御定全唐詩/json/249.json",
+    "御定全唐詩/json/250.json",
+    "御定全唐詩/json/251.json",
+    "御定全唐詩/json/252.json",
+    "御定全唐詩/json/253.json",
+    "御定全唐詩/json/254.json",
+    "御定全唐詩/json/255.json",
+    "御定全唐詩/json/256.json",
+    "御定全唐詩/json/257.json",
+    "御定全唐詩/json/258.json",
+    "御定全唐詩/json/259.json",
+    "御定全唐詩/json/260.json",
+    "御定全唐詩/json/261.json",
+    "御定全唐詩/json/262.json",
+    "御定全唐詩/json/263.json",
+    "御定全唐詩/json/264.json",
+    "御定全唐詩/json/265.json",
+    "御定全唐詩/json/266.json",
+    "御定全唐詩/json/267.json",
+    "御定全唐詩/json/268.json",
+    "御定全唐詩/json/269.json",
+    "御定全唐詩/json/270.json",
+    "御定全唐詩/json/271.json",
+    "御定全唐詩/json/272.json",
+    "御定全唐詩/json/273.json",
+    "御定全唐詩/json/274.json",
+    "御定全唐詩/json/275.json",
+    "御定全唐詩/json/276.json",
+    "御定全唐詩/json/277.json",
+    "御定全唐詩/json/278.json",
+    "御定全唐詩/json/279.json",
+    "御定全唐詩/json/280.json",
+    "御定全唐詩/json/281.json",
+    "御定全唐詩/json/282.json",
+    "御定全唐詩/json/283.json",
+    "御定全唐詩/json/284.json",
+    "御定全唐詩/json/285.json",
+    "御定全唐詩/json/286.json",
+    "御定全唐詩/json/287.json",
+    "御定全唐詩/json/288.json",
+    "御定全唐詩/json/289.json",
+    "御定全唐詩/json/290.json",
+    "御定全唐詩/json/291.json",
+    "御定全唐詩/json/292.json",
+    "御定全唐詩/json/293.json",
+    "御定全唐詩/json/294.json",
+    "御定全唐詩/json/295.json",
+    "御定全唐詩/json/296.json",
+    "御定全唐詩/json/297.json",
+    "御定全唐詩/json/298.json",
+    "御定全唐詩/json/299.json",
+    "御定全唐詩/json/300.json",
+    "御定全唐詩/json/301.json",
+    "御定全唐詩/json/302.json",
+    "御定全唐詩/json/303.json",
+    "御定全唐詩/json/304.json",
+    "御定全唐詩/json/305.json",
+    "御定全唐詩/json/306.json",
+    "御定全唐詩/json/307.json",
+    "御定全唐詩/json/308.json",
+    "御定全唐詩/json/309.json",
+    "御定全唐詩/json/310.json",
+    "御定全唐詩/json/311.json",
+    "御定全唐詩/json/312.json",
+    "御定全唐詩/json/313.json",
+    "御定全唐詩/json/314.json",
+    "御定全唐詩/json/315.json",
+    "御定全唐詩/json/316.json",
+    "御定全唐詩/json/317.json",
+    "御定全唐詩/json/318.json",
+    "御定全唐詩/json/319.json",
+    "御定全唐詩/json/320.json",
+    "御定全唐詩/json/321.json",
+    "御定全唐詩/json/322.json",
+    "御定全唐詩/json/323.json",
+    "御定全唐詩/json/324.json",
+    "御定全唐詩/json/325.json",
+    "御定全唐詩/json/326.json",
+    "御定全唐詩/json/327.json",
+    "御定全唐詩/json/328.json",
+    "御定全唐詩/json/329.json",
+    "御定全唐詩/json/330.json",
+    "御定全唐詩/json/331.json",
+    "御定全唐詩/json/332.json",
+    "御定全唐詩/json/333.json",
+    "御定全唐詩/json/334.json",
+    "御定全唐詩/json/335.json",
+    "御定全唐詩/json/336.json",
+    "御定全唐詩/json/337.json",
+    "御定全唐詩/json/338.json",
+    "御定全唐詩/json/339.json",
+    "御定全唐詩/json/340.json",
+    "御定全唐詩/json/341.json",
+    "御定全唐詩/json/342.json",
+    "御定全唐詩/json/343.json",
+    "御定全唐詩/json/344.json",
+    "御定全唐詩/json/345.json",
+    "御定全唐詩/json/346.json",
+    "御定全唐詩/json/347.json",
+    "御定全唐詩/json/348.json",
+    "御定全唐詩/json/349.json",
+    "御定全唐詩/json/350.json",
+    "御定全唐詩/json/351.json",
+    "御定全唐詩/json/352.json",
+    "御定全唐詩/json/353.json",
+    "御定全唐詩/json/354.json",
+    "御定全唐詩/json/355.json",
+    "御定全唐詩/json/356.json",
+    "御定全唐詩/json/357.json",
+    "御定全唐詩/json/358.json",
+    "御定全唐詩/json/359.json",
+    "御定全唐詩/json/360.json",
+    "御定全唐詩/json/361.json",
+    "御定全唐詩/json/362.json",
+    "御定全唐詩/json/363.json",
+    "御定全唐詩/json/364.json",
+    "御定全唐詩/json/365.json",
+    "御定全唐詩/json/366.json",
+    "御定全唐詩/json/367.json",
+    "御定全唐詩/json/368.json",
+    "御定全唐詩/json/369.json",
+    "御定全唐詩/json/370.json",
+    "御定全唐詩/json/371.json",
+    "御定全唐詩/json/372.json",
+    "御定全唐詩/json/373.json",
+    "御定全唐詩/json/374.json",
+    "御定全唐詩/json/375.json",
+    "御定全唐詩/json/376.json",
+    "御定全唐詩/json/377.json",
+    "御定全唐詩/json/378.json",
+    "御定全唐詩/json/379.json",
+    "御定全唐詩/json/380.json",
+    "御定全唐詩/json/381.json",
+    "御定全唐詩/json/382.json",
+    "御定全唐詩/json/383.json",
+    "御定全唐詩/json/384.json",
+    "御定全唐詩/json/385.json",
+    "御定全唐詩/json/386.json",
+    "御定全唐詩/json/387.json",
+    "御定全唐詩/json/388.json",
+    "御定全唐詩/json/389.json",
+    "御定全唐詩/json/390.json",
+    "御定全唐詩/json/391.json",
+    "御定全唐詩/json/392.json",
+    "御定全唐詩/json/393.json",
+    "御定全唐詩/json/394.json",
+    "御定全唐詩/json/395.json",
+    "御定全唐詩/json/396.json",
+    "御定全唐詩/json/397.json",
+    "御定全唐詩/json/398.json",
+    "御定全唐詩/json/399.json",
+    "御定全唐詩/json/400.json",
+    "御定全唐詩/json/401.json",
+    "御定全唐詩/json/402.json",
+    "御定全唐詩/json/403.json",
+    "御定全唐詩/json/404.json",
+    "御定全唐詩/json/405.json",
+    "御定全唐詩/json/406.json",
+    "御定全唐詩/json/407.json",
+    "御定全唐詩/json/408.json",
+    "御定全唐詩/json/409.json",
+    "御定全唐詩/json/410.json",
+    "御定全唐詩/json/411.json",
+    "御定全唐詩/json/412.json",
+    "御定全唐詩/json/413.json",
+    "御定全唐詩/json/414.json",
+    "御定全唐詩/json/415.json",
+    "御定全唐詩/json/416.json",
+    "御定全唐詩/json/417.json",
+    "御定全唐詩/json/418.json",
+    "御定全唐詩/json/419.json",
+    "御定全唐詩/json/420.json",
+    "御定全唐詩/json/421.json",
+    "御定全唐詩/json/422.json",
+    "御定全唐詩/json/423.json",
+    "御定全唐詩/json/424.json",
+    "御定全唐詩/json/425.json",
+    "御定全唐詩/json/426.json",
+    "御定全唐詩/json/427.json",
+    "御定全唐詩/json/428.json",
+    "御定全唐詩/json/429.json",
+    "御定全唐詩/json/430.json",
+    "御定全唐詩/json/431.json",
+    "御定全唐詩/json/432.json",
+    "御定全唐詩/json/433.json",
+    "御定全唐詩/json/434.json",
+    "御定全唐詩/json/435.json",
+    "御定全唐詩/json/436.json",
+    "御定全唐詩/json/437.json",
+    "御定全唐詩/json/438.json",
+    "御定全唐詩/json/439.json",
+    "御定全唐詩/json/440.json",
+    "御定全唐詩/json/441.json",
+    "御定全唐詩/json/442.json",
+    "御定全唐詩/json/443.json",
+    "御定全唐詩/json/444.json",
+    "御定全唐詩/json/445.json",
+    "御定全唐詩/json/446.json",
+    "御定全唐詩/json/447.json",
+    "御定全唐詩/json/448.json",
+    "御定全唐詩/json/449.json",
+    "御定全唐詩/json/450.json",
+    "御定全唐詩/json/451.json",
+    "御定全唐詩/json/452.json",
+    "御定全唐詩/json/453.json",
+    "御定全唐詩/json/454.json",
+    "御定全唐詩/json/455.json",
+    "御定全唐詩/json/456.json",
+    "御定全唐詩/json/457.json",
+    "御定全唐詩/json/458.json",
+    "御定全唐詩/json/459.json",
+    "御定全唐詩/json/460.json",
+    "御定全唐詩/json/461.json",
+    "御定全唐詩/json/462.json",
+    "御定全唐詩/json/463.json",
+    "御定全唐詩/json/464.json",
+    "御定全唐詩/json/465.json",
+    "御定全唐詩/json/466.json",
+    "御定全唐詩/json/467.json",
+    "御定全唐詩/json/468.json",
+    "御定全唐詩/json/469.json",
+    "御定全唐詩/json/470.json",
+    "御定全唐詩/json/471.json",
+    "御定全唐詩/json/472.json",
+    "御定全唐詩/json/473.json",
+    "御定全唐詩/json/474.json",
+    "御定全唐詩/json/475.json",
+    "御定全唐詩/json/476.json",
+    "御定全唐詩/json/477.json",
+    "御定全唐詩/json/478.json",
+    "御定全唐詩/json/479.json",
+    "御定全唐詩/json/480.json",
+    "御定全唐詩/json/481.json",
+    "御定全唐詩/json/482.json",
+    "御定全唐詩/json/483.json",
+    "御定全唐詩/json/484.json",
+    "御定全唐詩/json/485.json",
+    "御定全唐詩/json/486.json",
+    "御定全唐詩/json/487.json",
+    "御定全唐詩/json/488.json",
+    "御定全唐詩/json/489.json",
+    "御定全唐詩/json/490.json",
+    "御定全唐詩/json/491.json",
+    "御定全唐詩/json/492.json",
+    "御定全唐詩/json/493.json",
+    "御定全唐詩/json/494.json",
+    "御定全唐詩/json/495.json",
+    "御定全唐詩/json/496.json",
+    "御定全唐詩/json/497.json",
+    "御定全唐詩/json/498.json",
+    "御定全唐詩/json/499.json",
+    "御定全唐詩/json/500.json",
+    "御定全唐詩/json/501.json",
+    "御定全唐詩/json/502.json",
+    "御定全唐詩/json/503.json",
+    "御定全唐詩/json/504.json",
+    "御定全唐詩/json/505.json",
+    "御定全唐詩/json/506.json",
+    "御定全唐詩/json/507.json",
+    "御定全唐詩/json/508.json",
+    "御定全唐詩/json/509.json",
+    "御定全唐詩/json/510.json",
+    "御定全唐詩/json/511.json",
+    "御定全唐詩/json/512.json",
+    "御定全唐詩/json/513.json",
+    "御定全唐詩/json/514.json",
+    "御定全唐詩/json/515.json",
+    "御定全唐詩/json/516.json",
+    "御定全唐詩/json/517.json",
+    "御定全唐詩/json/518.json",
+    "御定全唐詩/json/519.json",
+    "御定全唐詩/json/520.json",
+    "御定全唐詩/json/521.json",
+    "御定全唐詩/json/522.json",
+    "御定全唐詩/json/523.json",
+    "御定全唐詩/json/524.json",
+    "御定全唐詩/json/525.json",
+    "御定全唐詩/json/526.json",
+    "御定全唐詩/json/527.json",
+    "御定全唐詩/json/528.json",
+    "御定全唐詩/json/529.json",
+    "御定全唐詩/json/530.json",
+    "御定全唐詩/json/531.json",
+    "御定全唐詩/json/532.json",
+    "御定全唐詩/json/533.json",
+    "御定全唐詩/json/534.json",
+    "御定全唐詩/json/535.json",
+    "御定全唐詩/json/536.json",
+    "御定全唐詩/json/537.json",
+    "御定全唐詩/json/538.json",
+    "御定全唐詩/json/539.json",
+    "御定全唐詩/json/540.json",
+    "御定全唐詩/json/541.json",
+    "御定全唐詩/json/542.json",
+    "御定全唐詩/json/543.json",
+    "御定全唐詩/json/544.json",
+    "御定全唐詩/json/545.json",
+    "御定全唐詩/json/546.json",
+    "御定全唐詩/json/547.json",
+    "御定全唐詩/json/548.json",
+    "御定全唐詩/json/549.json",
+    "御定全唐詩/json/550.json",
+    "御定全唐詩/json/551.json",
+    "御定全唐詩/json/552.json",
+    "御定全唐詩/json/553.json",
+    "御定全唐詩/json/554.json",
+    "御定全唐詩/json/555.json",
+    "御定全唐詩/json/556.json",
+    "御定全唐詩/json/557.json",
+    "御定全唐詩/json/558.json",
+    "御定全唐詩/json/559.json",
+    "御定全唐詩/json/560.json",
+    "御定全唐詩/json/561.json",
+    "御定全唐詩/json/562.json",
+    "御定全唐詩/json/563.json",
+    "御定全唐詩/json/564.json",
+    "御定全唐詩/json/565.json",
+    "御定全唐詩/json/566.json",
+    "御定全唐詩/json/567.json",
+    "御定全唐詩/json/568.json",
+    "御定全唐詩/json/569.json",
+    "御定全唐詩/json/570.json",
+    "御定全唐詩/json/571.json",
+    "御定全唐詩/json/572.json",
+    "御定全唐詩/json/573.json",
+    "御定全唐詩/json/574.json",
+    "御定全唐詩/json/575.json",
+    "御定全唐詩/json/576.json",
+    "御定全唐詩/json/577.json",
+    "御定全唐詩/json/578.json",
+    "御定全唐詩/json/579.json",
+    "御定全唐詩/json/580.json",
+    "御定全唐詩/json/581.json",
+    "御定全唐詩/json/582.json",
+    "御定全唐詩/json/583.json",
+    "御定全唐詩/json/584.json",
+    "御定全唐詩/json/585.json",
+    "御定全唐詩/json/586.json",
+    "御定全唐詩/json/587.json",
+    "御定全唐詩/json/588.json",
+    "御定全唐詩/json/589.json",
+    "御定全唐詩/json/590.json",
+    "御定全唐詩/json/591.json",
+    "御定全唐詩/json/592.json",
+    "御定全唐詩/json/593.json",
+    "御定全唐詩/json/594.json",
+    "御定全唐詩/json/595.json",
+    "御定全唐詩/json/596.json",
+    "御定全唐詩/json/597.json",
+    "御定全唐詩/json/598.json",
+    "御定全唐詩/json/599.json",
+    "御定全唐詩/json/600.json",
+    "御定全唐詩/json/601.json",
+    "御定全唐詩/json/602.json",
+    "御定全唐詩/json/603.json",
+    "御定全唐詩/json/604.json",
+    "御定全唐詩/json/605.json",
+    "御定全唐詩/json/606.json",
+    "御定全唐詩/json/607.json",
+    "御定全唐詩/json/608.json",
+    "御定全唐詩/json/609.json",
+    "御定全唐詩/json/610.json",
+    "御定全唐詩/json/611.json",
+    "御定全唐詩/json/612.json",
+    "御定全唐詩/json/613.json",
+    "御定全唐詩/json/614.json",
+    "御定全唐詩/json/615.json",
+    "御定全唐詩/json/616.json",
+    "御定全唐詩/json/617.json",
+    "御定全唐詩/json/618.json",
+    "御定全唐詩/json/619.json",
+    "御定全唐詩/json/620.json",
+    "御定全唐詩/json/621.json",
+    "御定全唐詩/json/622.json",
+    "御定全唐詩/json/623.json",
+    "御定全唐詩/json/624.json",
+    "御定全唐詩/json/625.json",
+    "御定全唐詩/json/626.json",
+    "御定全唐詩/json/627.json",
+    "御定全唐詩/json/628.json",
+    "御定全唐詩/json/629.json",
+    "御定全唐詩/json/630.json",
+    "御定全唐詩/json/631.json",
+    "御定全唐詩/json/632.json",
+    "御定全唐詩/json/633.json",
+    "御定全唐詩/json/634.json",
+    "御定全唐詩/json/635.json",
+    "御定全唐詩/json/636.json",
+    "御定全唐詩/json/637.json",
+    "御定全唐詩/json/638.json",
+    "御定全唐詩/json/639.json",
+    "御定全唐詩/json/640.json",
+    "御定全唐詩/json/641.json",
+    "御定全唐詩/json/642.json",
+    "御定全唐詩/json/643.json",
+    "御定全唐詩/json/644.json",
+    "御定全唐詩/json/645.json",
+    "御定全唐詩/json/646.json",
+    "御定全唐詩/json/647.json",
+    "御定全唐詩/json/648.json",
+    "御定全唐詩/json/649.json",
+    "御定全唐詩/json/650.json",
+    "御定全唐詩/json/651.json",
+    "御定全唐詩/json/652.json",
+    "御定全唐詩/json/653.json",
+    "御定全唐詩/json/654.json",
+    "御定全唐詩/json/655.json",
+    "御定全唐詩/json/656.json",
+    "御定全唐詩/json/657.json",
+    "御定全唐詩/json/658.json",
+    "御定全唐詩/json/659.json",
+    "御定全唐詩/json/660.json",
+    "御定全唐詩/json/661.json",
+    "御定全唐詩/json/662.json",
+    "御定全唐詩/json/663.json",
+    "御定全唐詩/json/664.json",
+    "御定全唐詩/json/665.json",
+    "御定全唐詩/json/666.json",
+    "御定全唐詩/json/667.json",
+    "御定全唐詩/json/668.json",
+    "御定全唐詩/json/669.json",
+    "御定全唐詩/json/670.json",
+    "御定全唐詩/json/671.json",
+    "御定全唐詩/json/672.json",
+    "御定全唐詩/json/673.json",
+    "御定全唐詩/json/674.json",
+    "御定全唐詩/json/675.json",
+    "御定全唐詩/json/676.json",
+    "御定全唐詩/json/677.json",
+    "御定全唐詩/json/678.json",
+    "御定全唐詩/json/679.json",
+    "御定全唐詩/json/680.json",
+    "御定全唐詩/json/681.json",
+    "御定全唐詩/json/682.json",
+    "御定全唐詩/json/683.json",
+    "御定全唐詩/json/684.json",
+    "御定全唐詩/json/685.json",
+    "御定全唐詩/json/686.json",
+    "御定全唐詩/json/687.json",
+    "御定全唐詩/json/688.json",
+    "御定全唐詩/json/689.json",
+    "御定全唐詩/json/690.json",
+    "御定全唐詩/json/691.json",
+    "御定全唐詩/json/692.json",
+    "御定全唐詩/json/693.json",
+    "御定全唐詩/json/694.json",
+    "御定全唐詩/json/695.json",
+    "御定全唐詩/json/696.json",
+    "御定全唐詩/json/697.json",
+    "御定全唐詩/json/698.json",
+    "御定全唐詩/json/699.json",
+    "御定全唐詩/json/700.json",
+    "御定全唐詩/json/701.json",
+    "御定全唐詩/json/702.json",
+    "御定全唐詩/json/703.json",
+    "御定全唐詩/json/704.json",
+    "御定全唐詩/json/705.json",
+    "御定全唐詩/json/706.json",
+    "御定全唐詩/json/707.json",
+    "御定全唐詩/json/708.json",
+    "御定全唐詩/json/709.json",
+    "御定全唐詩/json/710.json",
+    "御定全唐詩/json/711.json",
+    "御定全唐詩/json/712.json",
+    "御定全唐詩/json/713.json",
+    "御定全唐詩/json/714.json",
+    "御定全唐詩/json/715.json",
+    "御定全唐詩/json/716.json",
+    "御定全唐詩/json/717.json",
+    "御定全唐詩/json/718.json",
+    "御定全唐詩/json/719.json",
+    "御定全唐詩/json/720.json",
+    "御定全唐詩/json/721.json",
+    "御定全唐詩/json/722.json",
+    "御定全唐詩/json/723.json",
+    "御定全唐詩/json/724.json",
+    "御定全唐詩/json/725.json",
+    "御定全唐詩/json/726.json",
+    "御定全唐詩/json/727.json",
+    "御定全唐詩/json/728.json",
+    "御定全唐詩/json/729.json",
+    "御定全唐詩/json/730.json",
+    "御定全唐詩/json/731.json",
+    "御定全唐詩/json/732.json",
+    "御定全唐詩/json/733.json",
+    "御定全唐詩/json/734.json",
+    "御定全唐詩/json/735.json",
+    "御定全唐詩/json/736.json",
+    "御定全唐詩/json/737.json",
+    "御定全唐詩/json/738.json",
+    "御定全唐詩/json/739.json",
+    "御定全唐詩/json/740.json",
+    "御定全唐詩/json/741.json",
+    "御定全唐詩/json/742.json",
+    "御定全唐詩/json/743.json",
+    "御定全唐詩/json/744.json",
+    "御定全唐詩/json/745.json",
+    "御定全唐詩/json/746.json",
+    "御定全唐詩/json/747.json",
+    "御定全唐詩/json/748.json",
+    "御定全唐詩/json/749.json",
+    "御定全唐詩/json/750.json",
+    "御定全唐詩/json/751.json",
+    "御定全唐詩/json/752.json",
+    "御定全唐詩/json/753.json",
+    "御定全唐詩/json/754.json",
+    "御定全唐詩/json/755.json",
+    "御定全唐詩/json/756.json",
+    "御定全唐詩/json/757.json",
+    "御定全唐詩/json/758.json",
+    "御定全唐詩/json/759.json",
+    "御定全唐詩/json/760.json",
+    "御定全唐詩/json/761.json",
+    "御定全唐詩/json/762.json",
+    "御定全唐詩/json/763.json",
+    "御定全唐詩/json/764.json",
+    "御定全唐詩/json/765.json",
+    "御定全唐詩/json/766.json",
+    "御定全唐詩/json/767.json",
+    "御定全唐詩/json/768.json",
+    "御定全唐詩/json/769.json",
+    "御定全唐詩/json/770.json",
+    "御定全唐詩/json/771.json",
+    "御定全唐詩/json/772.json",
+    "御定全唐詩/json/773.json",
+    "御定全唐詩/json/774.json",
+    "御定全唐詩/json/775.json",
+    "御定全唐詩/json/776.json",
+    "御定全唐詩/json/777.json",
+    "御定全唐詩/json/778.json",
+    "御定全唐詩/json/779.json",
+    "御定全唐詩/json/780.json",
+    "御定全唐詩/json/781.json",
+    "御定全唐詩/json/782.json",
+    "御定全唐詩/json/783.json",
+    "御定全唐詩/json/784.json",
+    "御定全唐詩/json/785.json",
+    "御定全唐詩/json/786.json",
+    "御定全唐詩/json/787.json",
+    "御定全唐詩/json/788.json",
+    "御定全唐詩/json/789.json",
+    "御定全唐詩/json/790.json",
+    "御定全唐詩/json/791.json",
+    "御定全唐詩/json/792.json",
+    "御定全唐詩/json/793.json",
+    "御定全唐詩/json/794.json",
+    "御定全唐詩/json/795.json",
+    "御定全唐詩/json/796.json",
+    "御定全唐詩/json/797.json",
+    "御定全唐詩/json/798.json",
+    "御定全唐詩/json/799.json",
+    "御定全唐詩/json/800.json",
+    "御定全唐詩/json/801.json",
+    "御定全唐詩/json/802.json",
+    "御定全唐詩/json/803.json",
+    "御定全唐詩/json/804.json",
+    "御定全唐詩/json/805.json",
+    "御定全唐詩/json/806.json",
+    "御定全唐詩/json/807.json",
+    "御定全唐詩/json/808.json",
+    "御定全唐詩/json/809.json",
+    "御定全唐詩/json/810.json",
+    "御定全唐詩/json/811.json",
+    "御定全唐詩/json/812.json",
+    "御定全唐詩/json/813.json",
+    "御定全唐詩/json/814.json",
+    "御定全唐詩/json/815.json",
+    "御定全唐詩/json/816.json",
+    "御定全唐詩/json/817.json",
+    "御定全唐詩/json/818.json",
+    "御定全唐詩/json/819.json",
+    "御定全唐詩/json/820.json",
+    "御定全唐詩/json/821.json",
+    "御定全唐詩/json/822.json",
+    "御定全唐詩/json/823.json",
+    "御定全唐詩/json/824.json",
+    "御定全唐詩/json/825.json",
+    "御定全唐詩/json/826.json",
+    "御定全唐詩/json/827.json",
+    "御定全唐詩/json/828.json",
+    "御定全唐詩/json/829.json",
+    "御定全唐詩/json/830.json",
+    "御定全唐詩/json/831.json",
+    "御定全唐詩/json/832.json",
+    "御定全唐詩/json/833.json",
+    "御定全唐詩/json/834.json",
+    "御定全唐詩/json/835.json",
+    "御定全唐詩/json/836.json",
+    "御定全唐詩/json/837.json",
+    "御定全唐詩/json/838.json",
+    "御定全唐詩/json/839.json",
+    "御定全唐詩/json/840.json",
+    "御定全唐詩/json/841.json",
+    "御定全唐詩/json/842.json",
+    "御定全唐詩/json/843.json",
+    "御定全唐詩/json/844.json",
+    "御定全唐詩/json/845.json",
+    "御定全唐詩/json/846.json",
+    "御定全唐詩/json/847.json",
+    "御定全唐詩/json/848.json",
+    "御定全唐詩/json/849.json",
+    "御定全唐詩/json/850.json",
+    "御定全唐詩/json/851.json",
+    "御定全唐詩/json/852.json",
+    "御定全唐詩/json/853.json",
+    "御定全唐詩/json/854.json",
+    "御定全唐詩/json/855.json",
+    "御定全唐詩/json/856.json",
+    "御定全唐詩/json/857.json",
+    "御定全唐詩/json/858.json",
+    "御定全唐詩/json/859.json",
+    "御定全唐詩/json/860.json",
+    "御定全唐詩/json/861.json",
+    "御定全唐詩/json/862.json",
+    "御定全唐詩/json/863.json",
+    "御定全唐詩/json/864.json",
+    "御定全唐詩/json/865.json",
+    "御定全唐詩/json/866.json",
+    "御定全唐詩/json/867.json",
+    "御定全唐詩/json/868.json",
+    "御定全唐詩/json/869.json",
+    "御定全唐詩/json/870.json",
+    "御定全唐詩/json/871.json",
+    "御定全唐詩/json/872.json",
+    "御定全唐詩/json/873.json",
+    "御定全唐詩/json/874.json",
+    "御定全唐詩/json/875.json",
+    "御定全唐詩/json/876.json",
+    "御定全唐詩/json/877.json",
+    "御定全唐詩/json/878.json",
+    "御定全唐詩/json/879.json",
+    "御定全唐詩/json/880.json",
+    "御定全唐詩/json/881.json",
+    "御定全唐詩/json/882.json",
+    "御定全唐詩/json/883.json",
+    "御定全唐詩/json/884.json",
+    "御定全唐詩/json/885.json",
+    "御定全唐詩/json/886.json",
+    "御定全唐詩/json/887.json",
+    "御定全唐詩/json/888.json",
+    "御定全唐詩/json/889.json",
+    "御定全唐詩/json/890.json",
+    "御定全唐詩/json/891.json",
+    "御定全唐詩/json/892.json",
+    "御定全唐詩/json/893.json",
+    "御定全唐詩/json/894.json",
+    "御定全唐詩/json/895.json",
+    "御定全唐詩/json/896.json",
+    "御定全唐詩/json/897.json",
+    "御定全唐詩/json/898.json",
+    "御定全唐詩/json/899.json",
+    "御定全唐詩/json/900.json",
+    "曹操诗集/caocao.json",
+    "楚辞/chuci.json",
+    "水墨唐诗/shuimotangshi.json",
+    "纳兰性德/纳兰性德诗集.json",
+    "蒙学/baijiaxing.json",
+    "蒙学/dizigui.json",
+    "蒙学/guwenguanzhi.json",
+    "蒙学/qianjiashi.json",
+    "蒙学/qianziwen.json",
+    "蒙学/sanzijing-new.json",
+    "蒙学/sanzijing-traditional.json",
+    "蒙学/shenglvqimeng.json",
+    "蒙学/tangshisanbaishou.json",
+    "蒙学/wenzimengqiu.json",
+    "蒙学/youxueqionglin.json",
+    "蒙学/zengguangxianwen.json",
+    "蒙学/zhuzijiaxun.json",
+    "论语/lunyu.json",
+    "诗经/shijing.json"
+  ],
+  "additionalCount": 35588,
+  "additionalDuplicateOccurrences": 20961,
+  "additionalReport": {
+    "五代诗词/huajianji/huajianji-0-preface.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-1-juan.json": {
+      "records": 50,
+      "added": 42,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-2-juan.json": {
+      "records": 50,
+      "added": 29,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-3-juan.json": {
+      "records": 50,
+      "added": 42,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-4-juan.json": {
+      "records": 50,
+      "added": 34,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-5-juan.json": {
+      "records": 48,
+      "added": 39,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-6-juan.json": {
+      "records": 50,
+      "added": 37,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-7-juan.json": {
+      "records": 50,
+      "added": 46,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-8-juan.json": {
+      "records": 50,
+      "added": 36,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-9-juan.json": {
+      "records": 49,
+      "added": 28,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/huajianji/huajianji-x-juan.json": {
+      "records": 50,
+      "added": 41,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "花间集"
+    },
+    "五代诗词/nantang/authors.json": {
+      "referenceOnly": true
+    },
+    "五代诗词/nantang/intro.json": {
+      "referenceOnly": true
+    },
+    "五代诗词/nantang/poetrys.json": {
+      "records": 45,
+      "added": 40,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "南唐二主词"
+    },
+    "元曲/yuanqu.json": {
+      "records": 11057,
+      "added": 10888,
+      "duplicates": 23,
+      "empty": 146,
+      "collection": "元曲"
+    },
+    "四书五经/daxue.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "大学"
+    },
+    "四书五经/mengzi.json": {
+      "records": 14,
+      "added": 14,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "孟子"
+    },
+    "四书五经/zhongyong.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "中庸"
+    },
+    "幽梦影/youmengying.json": {
+      "records": 219,
+      "added": 219,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "幽梦影"
+    },
+    "御定全唐詩/json/001.json": {
+      "records": 88,
+      "added": 44,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/002.json": {
+      "records": 16,
+      "added": 10,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/003.json": {
+      "records": 64,
+      "added": 25,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/004.json": {
+      "records": 31,
+      "added": 14,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/005.json": {
+      "records": 62,
+      "added": 21,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/006.json": {
+      "records": 4,
+      "added": 2,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/007.json": {
+      "records": 9,
+      "added": 4,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/008.json": {
+      "records": 35,
+      "added": 25,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/009.json": {
+      "records": 16,
+      "added": 6,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/010.json": {
+      "records": 62,
+      "added": 15,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/011.json": {
+      "records": 57,
+      "added": 17,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/012.json": {
+      "records": 88,
+      "added": 27,
+      "duplicates": 61,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/013.json": {
+      "records": 73,
+      "added": 18,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/014.json": {
+      "records": 41,
+      "added": 15,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/015.json": {
+      "records": 52,
+      "added": 12,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/016.json": {
+      "records": 70,
+      "added": 24,
+      "duplicates": 46,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/017.json": {
+      "records": 55,
+      "added": 42,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/018.json": {
+      "records": 91,
+      "added": 51,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/019.json": {
+      "records": 134,
+      "added": 83,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/020.json": {
+      "records": 120,
+      "added": 75,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/021.json": {
+      "records": 99,
+      "added": 59,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/022.json": {
+      "records": 21,
+      "added": 18,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/023.json": {
+      "records": 67,
+      "added": 43,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/024.json": {
+      "records": 76,
+      "added": 60,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/025.json": {
+      "records": 69,
+      "added": 51,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/026.json": {
+      "records": 110,
+      "added": 67,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/027.json": {
+      "records": 124,
+      "added": 53,
+      "duplicates": 71,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/028.json": {
+      "records": 74,
+      "added": 60,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/029.json": {
+      "records": 41,
+      "added": 32,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/030.json": {
+      "records": 21,
+      "added": 10,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/031.json": {
+      "records": 35,
+      "added": 10,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/032.json": {
+      "records": 33,
+      "added": 12,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/033.json": {
+      "records": 27,
+      "added": 13,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/034.json": {
+      "records": 20,
+      "added": 10,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/035.json": {
+      "records": 33,
+      "added": 19,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/036.json": {
+      "records": 31,
+      "added": 17,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/037.json": {
+      "records": 42,
+      "added": 19,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/038.json": {
+      "records": 26,
+      "added": 17,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/039.json": {
+      "records": 33,
+      "added": 14,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/040.json": {
+      "records": 19,
+      "added": 11,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/041.json": {
+      "records": 39,
+      "added": 22,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/042.json": {
+      "records": 55,
+      "added": 21,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/043.json": {
+      "records": 26,
+      "added": 12,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/044.json": {
+      "records": 31,
+      "added": 17,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/045.json": {
+      "records": 12,
+      "added": 8,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/046.json": {
+      "records": 30,
+      "added": 16,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/047.json": {
+      "records": 51,
+      "added": 33,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/048.json": {
+      "records": 79,
+      "added": 25,
+      "duplicates": 54,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/049.json": {
+      "records": 62,
+      "added": 34,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/050.json": {
+      "records": 33,
+      "added": 11,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/051.json": {
+      "records": 48,
+      "added": 29,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/052.json": {
+      "records": 76,
+      "added": 33,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/053.json": {
+      "records": 63,
+      "added": 31,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/054.json": {
+      "records": 38,
+      "added": 16,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/055.json": {
+      "records": 13,
+      "added": 12,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/056.json": {
+      "records": 63,
+      "added": 29,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/057.json": {
+      "records": 13,
+      "added": 8,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/058.json": {
+      "records": 42,
+      "added": 13,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/059.json": {
+      "records": 58,
+      "added": 21,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/060.json": {
+      "records": 62,
+      "added": 20,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/061.json": {
+      "records": 31,
+      "added": 21,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/062.json": {
+      "records": 39,
+      "added": 17,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/063.json": {
+      "records": 23,
+      "added": 9,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/064.json": {
+      "records": 13,
+      "added": 5,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/065.json": {
+      "records": 15,
+      "added": 11,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/066.json": {
+      "records": 18,
+      "added": 8,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/067.json": {
+      "records": 15,
+      "added": 5,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/068.json": {
+      "records": 17,
+      "added": 12,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/069.json": {
+      "records": 25,
+      "added": 17,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/070.json": {
+      "records": 17,
+      "added": 12,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/071.json": {
+      "records": 26,
+      "added": 14,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/072.json": {
+      "records": 35,
+      "added": 14,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/073.json": {
+      "records": 56,
+      "added": 25,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/074.json": {
+      "records": 43,
+      "added": 21,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/075.json": {
+      "records": 12,
+      "added": 7,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/076.json": {
+      "records": 31,
+      "added": 16,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/077.json": {
+      "records": 19,
+      "added": 15,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/078.json": {
+      "records": 54,
+      "added": 28,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/079.json": {
+      "records": 47,
+      "added": 18,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/080.json": {
+      "records": 29,
+      "added": 16,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/081.json": {
+      "records": 21,
+      "added": 15,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/082.json": {
+      "records": 28,
+      "added": 17,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/083.json": {
+      "records": 33,
+      "added": 21,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/084.json": {
+      "records": 56,
+      "added": 17,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/085.json": {
+      "records": 28,
+      "added": 4,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/086.json": {
+      "records": 74,
+      "added": 43,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/087.json": {
+      "records": 94,
+      "added": 47,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/088.json": {
+      "records": 59,
+      "added": 27,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/089.json": {
+      "records": 38,
+      "added": 14,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/090.json": {
+      "records": 7,
+      "added": 5,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/091.json": {
+      "records": 17,
+      "added": 10,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/092.json": {
+      "records": 42,
+      "added": 15,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/093.json": {
+      "records": 39,
+      "added": 23,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/094.json": {
+      "records": 24,
+      "added": 9,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/095.json": {
+      "records": 30,
+      "added": 18,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/096.json": {
+      "records": 77,
+      "added": 40,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/097.json": {
+      "records": 45,
+      "added": 27,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/098.json": {
+      "records": 30,
+      "added": 19,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/099.json": {
+      "records": 29,
+      "added": 17,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/100.json": {
+      "records": 15,
+      "added": 4,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/101.json": {
+      "records": 10,
+      "added": 6,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/102.json": {
+      "records": 15,
+      "added": 9,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/103.json": {
+      "records": 21,
+      "added": 7,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/104.json": {
+      "records": 28,
+      "added": 16,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/105.json": {
+      "records": 14,
+      "added": 7,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/106.json": {
+      "records": 24,
+      "added": 12,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/107.json": {
+      "records": 14,
+      "added": 6,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/108.json": {
+      "records": 30,
+      "added": 12,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/109.json": {
+      "records": 10,
+      "added": 3,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/110.json": {
+      "records": 18,
+      "added": 8,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/111.json": {
+      "records": 37,
+      "added": 18,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/112.json": {
+      "records": 19,
+      "added": 8,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/113.json": {
+      "records": 12,
+      "added": 7,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/114.json": {
+      "records": 57,
+      "added": 22,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/115.json": {
+      "records": 24,
+      "added": 13,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/116.json": {
+      "records": 17,
+      "added": 8,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/117.json": {
+      "records": 23,
+      "added": 12,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/118.json": {
+      "records": 60,
+      "added": 27,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/119.json": {
+      "records": 37,
+      "added": 12,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/120.json": {
+      "records": 15,
+      "added": 7,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/121.json": {
+      "records": 13,
+      "added": 3,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/122.json": {
+      "records": 25,
+      "added": 13,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/123.json": {
+      "records": 10,
+      "added": 10,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/124.json": {
+      "records": 24,
+      "added": 9,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/125.json": {
+      "records": 119,
+      "added": 77,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/126.json": {
+      "records": 93,
+      "added": 40,
+      "duplicates": 53,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/127.json": {
+      "records": 40,
+      "added": 29,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/128.json": {
+      "records": 89,
+      "added": 39,
+      "duplicates": 50,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/129.json": {
+      "records": 58,
+      "added": 17,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/130.json": {
+      "records": 39,
+      "added": 21,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/131.json": {
+      "records": 36,
+      "added": 12,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/132.json": {
+      "records": 41,
+      "added": 21,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/133.json": {
+      "records": 36,
+      "added": 35,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/134.json": {
+      "records": 47,
+      "added": 22,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/135.json": {
+      "records": 26,
+      "added": 8,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/136.json": {
+      "records": 45,
+      "added": 21,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/137.json": {
+      "records": 33,
+      "added": 22,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/138.json": {
+      "records": 40,
+      "added": 28,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/139.json": {
+      "records": 53,
+      "added": 23,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/140.json": {
+      "records": 36,
+      "added": 19,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/141.json": {
+      "records": 34,
+      "added": 20,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/142.json": {
+      "records": 20,
+      "added": 6,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/143.json": {
+      "records": 71,
+      "added": 24,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/144.json": {
+      "records": 51,
+      "added": 29,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/145.json": {
+      "records": 30,
+      "added": 12,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/146.json": {
+      "records": 17,
+      "added": 11,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/147.json": {
+      "records": 143,
+      "added": 44,
+      "duplicates": 99,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/148.json": {
+      "records": 124,
+      "added": 37,
+      "duplicates": 87,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/149.json": {
+      "records": 77,
+      "added": 38,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/150.json": {
+      "records": 59,
+      "added": 20,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/151.json": {
+      "records": 96,
+      "added": 91,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/152.json": {
+      "records": 9,
+      "added": 6,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/153.json": {
+      "records": 14,
+      "added": 6,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/154.json": {
+      "records": 16,
+      "added": 12,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/155.json": {
+      "records": 15,
+      "added": 5,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/156.json": {
+      "records": 13,
+      "added": 10,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/157.json": {
+      "records": 17,
+      "added": 6,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/158.json": {
+      "records": 14,
+      "added": 9,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/159.json": {
+      "records": 64,
+      "added": 34,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/160.json": {
+      "records": 203,
+      "added": 71,
+      "duplicates": 132,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/161.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/162.json": {
+      "records": 26,
+      "added": 23,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/163.json": {
+      "records": 32,
+      "added": 23,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/164.json": {
+      "records": 25,
+      "added": 15,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/165.json": {
+      "records": 38,
+      "added": 13,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/166.json": {
+      "records": 23,
+      "added": 21,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/167.json": {
+      "records": 18,
+      "added": 15,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/168.json": {
+      "records": 39,
+      "added": 25,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/169.json": {
+      "records": 22,
+      "added": 16,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/170.json": {
+      "records": 27,
+      "added": 19,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/171.json": {
+      "records": 23,
+      "added": 15,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/172.json": {
+      "records": 25,
+      "added": 15,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/173.json": {
+      "records": 23,
+      "added": 16,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/174.json": {
+      "records": 33,
+      "added": 22,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/175.json": {
+      "records": 21,
+      "added": 12,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/176.json": {
+      "records": 37,
+      "added": 24,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/177.json": {
+      "records": 33,
+      "added": 15,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/178.json": {
+      "records": 32,
+      "added": 22,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/179.json": {
+      "records": 44,
+      "added": 21,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/180.json": {
+      "records": 35,
+      "added": 17,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/181.json": {
+      "records": 51,
+      "added": 23,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/182.json": {
+      "records": 40,
+      "added": 19,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/183.json": {
+      "records": 39,
+      "added": 20,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/184.json": {
+      "records": 63,
+      "added": 31,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/185.json": {
+      "records": 26,
+      "added": 12,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/186.json": {
+      "records": 26,
+      "added": 17,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/187.json": {
+      "records": 61,
+      "added": 30,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/188.json": {
+      "records": 63,
+      "added": 18,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/189.json": {
+      "records": 68,
+      "added": 36,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/190.json": {
+      "records": 67,
+      "added": 39,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/191.json": {
+      "records": 59,
+      "added": 29,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/192.json": {
+      "records": 73,
+      "added": 38,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/193.json": {
+      "records": 76,
+      "added": 25,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/194.json": {
+      "records": 21,
+      "added": 19,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/195.json": {
+      "records": 26,
+      "added": 18,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/196.json": {
+      "records": 13,
+      "added": 7,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/197.json": {
+      "records": 40,
+      "added": 20,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/198.json": {
+      "records": 101,
+      "added": 57,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/199.json": {
+      "records": 51,
+      "added": 47,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/200.json": {
+      "records": 161,
+      "added": 66,
+      "duplicates": 95,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/201.json": {
+      "records": 73,
+      "added": 33,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/202.json": {
+      "records": 39,
+      "added": 16,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/203.json": {
+      "records": 44,
+      "added": 13,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/204.json": {
+      "records": 13,
+      "added": 7,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/205.json": {
+      "records": 38,
+      "added": 15,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/206.json": {
+      "records": 84,
+      "added": 29,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/207.json": {
+      "records": 49,
+      "added": 34,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/208.json": {
+      "records": 19,
+      "added": 8,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/209.json": {
+      "records": 10,
+      "added": 2,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/210.json": {
+      "records": 48,
+      "added": 21,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/211.json": {
+      "records": 42,
+      "added": 32,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/212.json": {
+      "records": 43,
+      "added": 26,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/213.json": {
+      "records": 31,
+      "added": 29,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/214.json": {
+      "records": 87,
+      "added": 35,
+      "duplicates": 52,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/215.json": {
+      "records": 16,
+      "added": 9,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/216.json": {
+      "records": 47,
+      "added": 41,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/217.json": {
+      "records": 39,
+      "added": 28,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/218.json": {
+      "records": 44,
+      "added": 34,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/219.json": {
+      "records": 33,
+      "added": 31,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/220.json": {
+      "records": 52,
+      "added": 41,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/221.json": {
+      "records": 50,
+      "added": 45,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/222.json": {
+      "records": 43,
+      "added": 41,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/223.json": {
+      "records": 43,
+      "added": 34,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/224.json": {
+      "records": 65,
+      "added": 36,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/225.json": {
+      "records": 90,
+      "added": 55,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/226.json": {
+      "records": 95,
+      "added": 48,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/227.json": {
+      "records": 88,
+      "added": 45,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/228.json": {
+      "records": 68,
+      "added": 44,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/229.json": {
+      "records": 84,
+      "added": 53,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/230.json": {
+      "records": 78,
+      "added": 44,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/231.json": {
+      "records": 77,
+      "added": 52,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/232.json": {
+      "records": 51,
+      "added": 30,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/233.json": {
+      "records": 54,
+      "added": 31,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/234.json": {
+      "records": 48,
+      "added": 24,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/235.json": {
+      "records": 41,
+      "added": 21,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/236.json": {
+      "records": 96,
+      "added": 53,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/237.json": {
+      "records": 139,
+      "added": 54,
+      "duplicates": 85,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/238.json": {
+      "records": 86,
+      "added": 46,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/239.json": {
+      "records": 108,
+      "added": 57,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/240.json": {
+      "records": 45,
+      "added": 30,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/241.json": {
+      "records": 44,
+      "added": 28,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/242.json": {
+      "records": 48,
+      "added": 19,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/243.json": {
+      "records": 35,
+      "added": 29,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/244.json": {
+      "records": 66,
+      "added": 21,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/245.json": {
+      "records": 62,
+      "added": 46,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/246.json": {
+      "records": 28,
+      "added": 23,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/247.json": {
+      "records": 53,
+      "added": 33,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/248.json": {
+      "records": 71,
+      "added": 36,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/249.json": {
+      "records": 103,
+      "added": 40,
+      "duplicates": 63,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/250.json": {
+      "records": 129,
+      "added": 44,
+      "duplicates": 85,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/251.json": {
+      "records": 24,
+      "added": 7,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/252.json": {
+      "records": 33,
+      "added": 10,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/253.json": {
+      "records": 37,
+      "added": 21,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/254.json": {
+      "records": 13,
+      "added": 8,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/255.json": {
+      "records": 11,
+      "added": 8,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/256.json": {
+      "records": 16,
+      "added": 8,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/257.json": {
+      "records": 19,
+      "added": 9,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/258.json": {
+      "records": 24,
+      "added": 9,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/259.json": {
+      "records": 29,
+      "added": 12,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/260.json": {
+      "records": 38,
+      "added": 18,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/261.json": {
+      "records": 15,
+      "added": 13,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/262.json": {
+      "records": 18,
+      "added": 6,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/263.json": {
+      "records": 65,
+      "added": 28,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/264.json": {
+      "records": 43,
+      "added": 30,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/265.json": {
+      "records": 41,
+      "added": 37,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/266.json": {
+      "records": 36,
+      "added": 17,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/267.json": {
+      "records": 97,
+      "added": 16,
+      "duplicates": 81,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/268.json": {
+      "records": 109,
+      "added": 38,
+      "duplicates": 71,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/269.json": {
+      "records": 64,
+      "added": 35,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/270.json": {
+      "records": 114,
+      "added": 59,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/271.json": {
+      "records": 138,
+      "added": 53,
+      "duplicates": 85,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/272.json": {
+      "records": 36,
+      "added": 16,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/273.json": {
+      "records": 154,
+      "added": 79,
+      "duplicates": 75,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/274.json": {
+      "records": 128,
+      "added": 40,
+      "duplicates": 88,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/275.json": {
+      "records": 23,
+      "added": 13,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/276.json": {
+      "records": 78,
+      "added": 36,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/277.json": {
+      "records": 51,
+      "added": 35,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/278.json": {
+      "records": 55,
+      "added": 33,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/279.json": {
+      "records": 72,
+      "added": 35,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/280.json": {
+      "records": 61,
+      "added": 27,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/281.json": {
+      "records": 34,
+      "added": 19,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/282.json": {
+      "records": 45,
+      "added": 26,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/283.json": {
+      "records": 115,
+      "added": 29,
+      "duplicates": 86,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/284.json": {
+      "records": 39,
+      "added": 21,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/285.json": {
+      "records": 142,
+      "added": 34,
+      "duplicates": 108,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/286.json": {
+      "records": 75,
+      "added": 41,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/287.json": {
+      "records": 16,
+      "added": 8,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/288.json": {
+      "records": 19,
+      "added": 9,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/289.json": {
+      "records": 19,
+      "added": 7,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/290.json": {
+      "records": 39,
+      "added": 16,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/291.json": {
+      "records": 20,
+      "added": 7,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/292.json": {
+      "records": 90,
+      "added": 30,
+      "duplicates": 60,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/293.json": {
+      "records": 83,
+      "added": 36,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/294.json": {
+      "records": 48,
+      "added": 24,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/295.json": {
+      "records": 18,
+      "added": 10,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/296.json": {
+      "records": 27,
+      "added": 17,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/297.json": {
+      "records": 42,
+      "added": 27,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/298.json": {
+      "records": 69,
+      "added": 53,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/299.json": {
+      "records": 49,
+      "added": 22,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/300.json": {
+      "records": 86,
+      "added": 85,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/301.json": {
+      "records": 122,
+      "added": 29,
+      "duplicates": 93,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/302.json": {
+      "records": 2,
+      "added": 2,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/303.json": {
+      "records": 43,
+      "added": 34,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/304.json": {
+      "records": 66,
+      "added": 21,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/305.json": {
+      "records": 38,
+      "added": 16,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/306.json": {
+      "records": 23,
+      "added": 13,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/307.json": {
+      "records": 40,
+      "added": 14,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/308.json": {
+      "records": 9,
+      "added": 7,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/309.json": {
+      "records": 11,
+      "added": 5,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/310.json": {
+      "records": 66,
+      "added": 27,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/311.json": {
+      "records": 18,
+      "added": 5,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/312.json": {
+      "records": 10,
+      "added": 7,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/313.json": {
+      "records": 28,
+      "added": 12,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/314.json": {
+      "records": 20,
+      "added": 10,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/315.json": {
+      "records": 26,
+      "added": 7,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/316.json": {
+      "records": 71,
+      "added": 29,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/317.json": {
+      "records": 120,
+      "added": 52,
+      "duplicates": 68,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/318.json": {
+      "records": 31,
+      "added": 14,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/319.json": {
+      "records": 45,
+      "added": 22,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/320.json": {
+      "records": 36,
+      "added": 25,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/321.json": {
+      "records": 31,
+      "added": 19,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/322.json": {
+      "records": 35,
+      "added": 18,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/323.json": {
+      "records": 34,
+      "added": 20,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/324.json": {
+      "records": 42,
+      "added": 17,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/325.json": {
+      "records": 43,
+      "added": 16,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/326.json": {
+      "records": 26,
+      "added": 12,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/327.json": {
+      "records": 33,
+      "added": 23,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/328.json": {
+      "records": 15,
+      "added": 13,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/329.json": {
+      "records": 43,
+      "added": 22,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/330.json": {
+      "records": 18,
+      "added": 10,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/331.json": {
+      "records": 14,
+      "added": 4,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/332.json": {
+      "records": 95,
+      "added": 48,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/333.json": {
+      "records": 142,
+      "added": 95,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/334.json": {
+      "records": 44,
+      "added": 24,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/335.json": {
+      "records": 19,
+      "added": 5,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/336.json": {
+      "records": 21,
+      "added": 17,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/337.json": {
+      "records": 28,
+      "added": 20,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/338.json": {
+      "records": 26,
+      "added": 24,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/339.json": {
+      "records": 27,
+      "added": 19,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/340.json": {
+      "records": 32,
+      "added": 26,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/341.json": {
+      "records": 18,
+      "added": 15,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/342.json": {
+      "records": 24,
+      "added": 17,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/343.json": {
+      "records": 77,
+      "added": 30,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/344.json": {
+      "records": 71,
+      "added": 33,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/345.json": {
+      "records": 24,
+      "added": 16,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/346.json": {
+      "records": 24,
+      "added": 14,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/347.json": {
+      "records": 24,
+      "added": 10,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/348.json": {
+      "records": 60,
+      "added": 22,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/349.json": {
+      "records": 78,
+      "added": 34,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/350.json": {
+      "records": 16,
+      "added": 10,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/351.json": {
+      "records": 39,
+      "added": 22,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/352.json": {
+      "records": 58,
+      "added": 36,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/353.json": {
+      "records": 40,
+      "added": 25,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/354.json": {
+      "records": 45,
+      "added": 24,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/355.json": {
+      "records": 58,
+      "added": 35,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/356.json": {
+      "records": 46,
+      "added": 42,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/357.json": {
+      "records": 66,
+      "added": 23,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/358.json": {
+      "records": 78,
+      "added": 27,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/359.json": {
+      "records": 65,
+      "added": 65,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/360.json": {
+      "records": 69,
+      "added": 68,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/361.json": {
+      "records": 46,
+      "added": 46,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/362.json": {
+      "records": 32,
+      "added": 25,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/363.json": {
+      "records": 15,
+      "added": 10,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/364.json": {
+      "records": 35,
+      "added": 16,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/365.json": {
+      "records": 121,
+      "added": 32,
+      "duplicates": 89,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/366.json": {
+      "records": 12,
+      "added": 4,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/367.json": {
+      "records": 23,
+      "added": 11,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/368.json": {
+      "records": 31,
+      "added": 18,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/369.json": {
+      "records": 26,
+      "added": 18,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/370.json": {
+      "records": 32,
+      "added": 12,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/371.json": {
+      "records": 70,
+      "added": 29,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/372.json": {
+      "records": 49,
+      "added": 19,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/373.json": {
+      "records": 37,
+      "added": 18,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/374.json": {
+      "records": 48,
+      "added": 27,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/375.json": {
+      "records": 21,
+      "added": 12,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/376.json": {
+      "records": 28,
+      "added": 17,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/377.json": {
+      "records": 45,
+      "added": 26,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/378.json": {
+      "records": 42,
+      "added": 20,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/379.json": {
+      "records": 41,
+      "added": 18,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/380.json": {
+      "records": 48,
+      "added": 22,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/381.json": {
+      "records": 22,
+      "added": 11,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/382.json": {
+      "records": 70,
+      "added": 52,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/383.json": {
+      "records": 28,
+      "added": 16,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/384.json": {
+      "records": 133,
+      "added": 46,
+      "duplicates": 87,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/385.json": {
+      "records": 80,
+      "added": 80,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/386.json": {
+      "records": 123,
+      "added": 27,
+      "duplicates": 96,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/387.json": {
+      "records": 47,
+      "added": 21,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/388.json": {
+      "records": 26,
+      "added": 20,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/389.json": {
+      "records": 17,
+      "added": 12,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/390.json": {
+      "records": 45,
+      "added": 30,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/391.json": {
+      "records": 25,
+      "added": 21,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/392.json": {
+      "records": 48,
+      "added": 29,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/393.json": {
+      "records": 50,
+      "added": 37,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/394.json": {
+      "records": 20,
+      "added": 19,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/395.json": {
+      "records": 27,
+      "added": 10,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/396.json": {
+      "records": 14,
+      "added": 12,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/397.json": {
+      "records": 10,
+      "added": 9,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/398.json": {
+      "records": 13,
+      "added": 11,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/399.json": {
+      "records": 16,
+      "added": 10,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/400.json": {
+      "records": 20,
+      "added": 13,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/401.json": {
+      "records": 20,
+      "added": 15,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/402.json": {
+      "records": 9,
+      "added": 6,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/403.json": {
+      "records": 25,
+      "added": 18,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/404.json": {
+      "records": 28,
+      "added": 14,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/405.json": {
+      "records": 5,
+      "added": 5,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/406.json": {
+      "records": 11,
+      "added": 9,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/407.json": {
+      "records": 6,
+      "added": 6,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/408.json": {
+      "records": 11,
+      "added": 11,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/409.json": {
+      "records": 36,
+      "added": 21,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/410.json": {
+      "records": 30,
+      "added": 7,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/411.json": {
+      "records": 36,
+      "added": 16,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/412.json": {
+      "records": 38,
+      "added": 19,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/413.json": {
+      "records": 24,
+      "added": 20,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/414.json": {
+      "records": 28,
+      "added": 16,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/415.json": {
+      "records": 32,
+      "added": 12,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/416.json": {
+      "records": 27,
+      "added": 15,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/417.json": {
+      "records": 26,
+      "added": 21,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/418.json": {
+      "records": 19,
+      "added": 19,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/419.json": {
+      "records": 14,
+      "added": 14,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/420.json": {
+      "records": 4,
+      "added": 4,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/421.json": {
+      "records": 17,
+      "added": 17,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/422.json": {
+      "records": 39,
+      "added": 25,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/423.json": {
+      "records": 25,
+      "added": 16,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/424.json": {
+      "records": 59,
+      "added": 39,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/425.json": {
+      "records": 29,
+      "added": 20,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/426.json": {
+      "records": 20,
+      "added": 20,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/427.json": {
+      "records": 30,
+      "added": 30,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/428.json": {
+      "records": 38,
+      "added": 23,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/429.json": {
+      "records": 45,
+      "added": 30,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/430.json": {
+      "records": 55,
+      "added": 28,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/431.json": {
+      "records": 55,
+      "added": 31,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/432.json": {
+      "records": 55,
+      "added": 24,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/433.json": {
+      "records": 68,
+      "added": 31,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/434.json": {
+      "records": 49,
+      "added": 25,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/435.json": {
+      "records": 29,
+      "added": 23,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/436.json": {
+      "records": 99,
+      "added": 35,
+      "duplicates": 64,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/437.json": {
+      "records": 95,
+      "added": 33,
+      "duplicates": 62,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/438.json": {
+      "records": 89,
+      "added": 43,
+      "duplicates": 46,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/439.json": {
+      "records": 95,
+      "added": 59,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/440.json": {
+      "records": 96,
+      "added": 62,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/441.json": {
+      "records": 85,
+      "added": 31,
+      "duplicates": 54,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/442.json": {
+      "records": 99,
+      "added": 49,
+      "duplicates": 50,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/443.json": {
+      "records": 96,
+      "added": 48,
+      "duplicates": 48,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/444.json": {
+      "records": 48,
+      "added": 36,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/445.json": {
+      "records": 55,
+      "added": 33,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/446.json": {
+      "records": 98,
+      "added": 58,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/447.json": {
+      "records": 91,
+      "added": 65,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/448.json": {
+      "records": 96,
+      "added": 52,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/449.json": {
+      "records": 73,
+      "added": 51,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/450.json": {
+      "records": 72,
+      "added": 50,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/451.json": {
+      "records": 93,
+      "added": 61,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/452.json": {
+      "records": 49,
+      "added": 34,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/453.json": {
+      "records": 43,
+      "added": 30,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/454.json": {
+      "records": 78,
+      "added": 51,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/455.json": {
+      "records": 73,
+      "added": 43,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/456.json": {
+      "records": 88,
+      "added": 61,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/457.json": {
+      "records": 72,
+      "added": 44,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/458.json": {
+      "records": 90,
+      "added": 48,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/459.json": {
+      "records": 90,
+      "added": 54,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/460.json": {
+      "records": 43,
+      "added": 25,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/461.json": {
+      "records": 11,
+      "added": 9,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/462.json": {
+      "records": 56,
+      "added": 28,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/463.json": {
+      "records": 22,
+      "added": 13,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/464.json": {
+      "records": 23,
+      "added": 11,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/465.json": {
+      "records": 58,
+      "added": 28,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/466.json": {
+      "records": 61,
+      "added": 32,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/467.json": {
+      "records": 62,
+      "added": 57,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/468.json": {
+      "records": 69,
+      "added": 33,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/469.json": {
+      "records": 30,
+      "added": 20,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/470.json": {
+      "records": 28,
+      "added": 10,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/471.json": {
+      "records": 30,
+      "added": 6,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/472.json": {
+      "records": 43,
+      "added": 12,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/473.json": {
+      "records": 28,
+      "added": 17,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/474.json": {
+      "records": 92,
+      "added": 13,
+      "duplicates": 79,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/475.json": {
+      "records": 136,
+      "added": 70,
+      "duplicates": 66,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/476.json": {
+      "records": 30,
+      "added": 9,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/477.json": {
+      "records": 102,
+      "added": 33,
+      "duplicates": 69,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/478.json": {
+      "records": 36,
+      "added": 7,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/479.json": {
+      "records": 51,
+      "added": 18,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/480.json": {
+      "records": 27,
+      "added": 26,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/481.json": {
+      "records": 42,
+      "added": 42,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/482.json": {
+      "records": 31,
+      "added": 31,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/483.json": {
+      "records": 26,
+      "added": 16,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/484.json": {
+      "records": 16,
+      "added": 9,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/485.json": {
+      "records": 54,
+      "added": 36,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/486.json": {
+      "records": 75,
+      "added": 48,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/487.json": {
+      "records": 47,
+      "added": 21,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/488.json": {
+      "records": 12,
+      "added": 9,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/489.json": {
+      "records": 6,
+      "added": 4,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/490.json": {
+      "records": 21,
+      "added": 12,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/491.json": {
+      "records": 38,
+      "added": 21,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/492.json": {
+      "records": 78,
+      "added": 56,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/493.json": {
+      "records": 23,
+      "added": 17,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/494.json": {
+      "records": 185,
+      "added": 69,
+      "duplicates": 116,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/495.json": {
+      "records": 15,
+      "added": 5,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/496.json": {
+      "records": 96,
+      "added": 43,
+      "duplicates": 53,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/497.json": {
+      "records": 97,
+      "added": 45,
+      "duplicates": 52,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/498.json": {
+      "records": 54,
+      "added": 35,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/499.json": {
+      "records": 50,
+      "added": 21,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/500.json": {
+      "records": 49,
+      "added": 17,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/501.json": {
+      "records": 62,
+      "added": 36,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/502.json": {
+      "records": 49,
+      "added": 30,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/503.json": {
+      "records": 93,
+      "added": 56,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/504.json": {
+      "records": 29,
+      "added": 13,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/505.json": {
+      "records": 32,
+      "added": 20,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/506.json": {
+      "records": 67,
+      "added": 44,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/507.json": {
+      "records": 18,
+      "added": 9,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/508.json": {
+      "records": 46,
+      "added": 23,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/509.json": {
+      "records": 72,
+      "added": 38,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/510.json": {
+      "records": 162,
+      "added": 76,
+      "duplicates": 86,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/511.json": {
+      "records": 164,
+      "added": 61,
+      "duplicates": 103,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/512.json": {
+      "records": 12,
+      "added": 3,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/513.json": {
+      "records": 53,
+      "added": 12,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/514.json": {
+      "records": 79,
+      "added": 29,
+      "duplicates": 50,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/515.json": {
+      "records": 89,
+      "added": 40,
+      "duplicates": 49,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/516.json": {
+      "records": 25,
+      "added": 15,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/517.json": {
+      "records": 22,
+      "added": 14,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/518.json": {
+      "records": 123,
+      "added": 41,
+      "duplicates": 82,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/519.json": {
+      "records": 36,
+      "added": 21,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/520.json": {
+      "records": 27,
+      "added": 25,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/521.json": {
+      "records": 58,
+      "added": 40,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/522.json": {
+      "records": 80,
+      "added": 42,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/523.json": {
+      "records": 73,
+      "added": 35,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/524.json": {
+      "records": 118,
+      "added": 58,
+      "duplicates": 60,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/525.json": {
+      "records": 57,
+      "added": 23,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/526.json": {
+      "records": 61,
+      "added": 43,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/527.json": {
+      "records": 13,
+      "added": 9,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/528.json": {
+      "records": 44,
+      "added": 25,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/529.json": {
+      "records": 41,
+      "added": 14,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/530.json": {
+      "records": 46,
+      "added": 22,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/531.json": {
+      "records": 43,
+      "added": 23,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/532.json": {
+      "records": 48,
+      "added": 21,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/533.json": {
+      "records": 43,
+      "added": 41,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/534.json": {
+      "records": 42,
+      "added": 42,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/535.json": {
+      "records": 48,
+      "added": 48,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/536.json": {
+      "records": 72,
+      "added": 65,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/537.json": {
+      "records": 19,
+      "added": 13,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/538.json": {
+      "records": 60,
+      "added": 12,
+      "duplicates": 48,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/539.json": {
+      "records": 214,
+      "added": 96,
+      "duplicates": 118,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/540.json": {
+      "records": 218,
+      "added": 124,
+      "duplicates": 94,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/541.json": {
+      "records": 118,
+      "added": 85,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/542.json": {
+      "records": 42,
+      "added": 18,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/543.json": {
+      "records": 64,
+      "added": 28,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/544.json": {
+      "records": 94,
+      "added": 36,
+      "duplicates": 58,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/545.json": {
+      "records": 40,
+      "added": 21,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/546.json": {
+      "records": 16,
+      "added": 6,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/547.json": {
+      "records": 25,
+      "added": 10,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/548.json": {
+      "records": 90,
+      "added": 78,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/549.json": {
+      "records": 130,
+      "added": 84,
+      "duplicates": 46,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/550.json": {
+      "records": 108,
+      "added": 28,
+      "duplicates": 80,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/551.json": {
+      "records": 28,
+      "added": 15,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/552.json": {
+      "records": 36,
+      "added": 32,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/553.json": {
+      "records": 33,
+      "added": 23,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/554.json": {
+      "records": 98,
+      "added": 45,
+      "duplicates": 53,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/555.json": {
+      "records": 72,
+      "added": 28,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/556.json": {
+      "records": 93,
+      "added": 44,
+      "duplicates": 49,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/557.json": {
+      "records": 43,
+      "added": 20,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/558.json": {
+      "records": 53,
+      "added": 21,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/559.json": {
+      "records": 51,
+      "added": 47,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/560.json": {
+      "records": 77,
+      "added": 48,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/561.json": {
+      "records": 78,
+      "added": 20,
+      "duplicates": 58,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/562.json": {
+      "records": 32,
+      "added": 23,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/563.json": {
+      "records": 31,
+      "added": 17,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/564.json": {
+      "records": 18,
+      "added": 10,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/565.json": {
+      "records": 24,
+      "added": 15,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/566.json": {
+      "records": 23,
+      "added": 13,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/567.json": {
+      "records": 15,
+      "added": 9,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/568.json": {
+      "records": 53,
+      "added": 37,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/569.json": {
+      "records": 97,
+      "added": 67,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/570.json": {
+      "records": 85,
+      "added": 31,
+      "duplicates": 54,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/571.json": {
+      "records": 61,
+      "added": 19,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/572.json": {
+      "records": 107,
+      "added": 44,
+      "duplicates": 63,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/573.json": {
+      "records": 130,
+      "added": 48,
+      "duplicates": 82,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/574.json": {
+      "records": 104,
+      "added": 49,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/575.json": {
+      "records": 25,
+      "added": 22,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/576.json": {
+      "records": 27,
+      "added": 22,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/577.json": {
+      "records": 33,
+      "added": 19,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/578.json": {
+      "records": 57,
+      "added": 57,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/579.json": {
+      "records": 27,
+      "added": 10,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/580.json": {
+      "records": 6,
+      "added": 6,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/581.json": {
+      "records": 37,
+      "added": 20,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/582.json": {
+      "records": 38,
+      "added": 26,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/583.json": {
+      "records": 62,
+      "added": 32,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/584.json": {
+      "records": 31,
+      "added": 17,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/585.json": {
+      "records": 68,
+      "added": 17,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/586.json": {
+      "records": 102,
+      "added": 99,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/587.json": {
+      "records": 70,
+      "added": 33,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/588.json": {
+      "records": 67,
+      "added": 16,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/589.json": {
+      "records": 65,
+      "added": 20,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/590.json": {
+      "records": 61,
+      "added": 35,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/591.json": {
+      "records": 11,
+      "added": 10,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/592.json": {
+      "records": 61,
+      "added": 22,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/593.json": {
+      "records": 45,
+      "added": 9,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/594.json": {
+      "records": 39,
+      "added": 16,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/595.json": {
+      "records": 49,
+      "added": 11,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/596.json": {
+      "records": 39,
+      "added": 13,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/597.json": {
+      "records": 34,
+      "added": 16,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/598.json": {
+      "records": 48,
+      "added": 14,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/599.json": {
+      "records": 45,
+      "added": 12,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/600.json": {
+      "records": 48,
+      "added": 28,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/601.json": {
+      "records": 34,
+      "added": 9,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/602.json": {
+      "records": 60,
+      "added": 15,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/603.json": {
+      "records": 68,
+      "added": 20,
+      "duplicates": 48,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/604.json": {
+      "records": 70,
+      "added": 36,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/605.json": {
+      "records": 32,
+      "added": 11,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/606.json": {
+      "records": 33,
+      "added": 15,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/607.json": {
+      "records": 19,
+      "added": 5,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/608.json": {
+      "records": 26,
+      "added": 12,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/609.json": {
+      "records": 15,
+      "added": 13,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/610.json": {
+      "records": 20,
+      "added": 18,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/611.json": {
+      "records": 57,
+      "added": 32,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/612.json": {
+      "records": 28,
+      "added": 15,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/613.json": {
+      "records": 66,
+      "added": 66,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/614.json": {
+      "records": 56,
+      "added": 56,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/615.json": {
+      "records": 49,
+      "added": 13,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/616.json": {
+      "records": 25,
+      "added": 16,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/617.json": {
+      "records": 8,
+      "added": 7,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/618.json": {
+      "records": 27,
+      "added": 25,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/619.json": {
+      "records": 19,
+      "added": 13,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/620.json": {
+      "records": 56,
+      "added": 26,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/621.json": {
+      "records": 23,
+      "added": 18,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/622.json": {
+      "records": 29,
+      "added": 13,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/623.json": {
+      "records": 14,
+      "added": 13,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/624.json": {
+      "records": 42,
+      "added": 42,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/625.json": {
+      "records": 38,
+      "added": 38,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/626.json": {
+      "records": 41,
+      "added": 40,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/627.json": {
+      "records": 45,
+      "added": 12,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/628.json": {
+      "records": 49,
+      "added": 18,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/629.json": {
+      "records": 78,
+      "added": 33,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/630.json": {
+      "records": 30,
+      "added": 19,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/631.json": {
+      "records": 31,
+      "added": 22,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/632.json": {
+      "records": 81,
+      "added": 42,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/633.json": {
+      "records": 80,
+      "added": 36,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/634.json": {
+      "records": 58,
+      "added": 30,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/635.json": {
+      "records": 22,
+      "added": 15,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/636.json": {
+      "records": 32,
+      "added": 15,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/637.json": {
+      "records": 7,
+      "added": 7,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/638.json": {
+      "records": 99,
+      "added": 42,
+      "duplicates": 57,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/639.json": {
+      "records": 69,
+      "added": 31,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/640.json": {
+      "records": 37,
+      "added": 35,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/641.json": {
+      "records": 4,
+      "added": 2,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/642.json": {
+      "records": 29,
+      "added": 13,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/643.json": {
+      "records": 78,
+      "added": 58,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/644.json": {
+      "records": 46,
+      "added": 32,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/645.json": {
+      "records": 71,
+      "added": 29,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/646.json": {
+      "records": 60,
+      "added": 57,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/647.json": {
+      "records": 162,
+      "added": 35,
+      "duplicates": 127,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/648.json": {
+      "records": 40,
+      "added": 16,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/649.json": {
+      "records": 68,
+      "added": 26,
+      "duplicates": 42,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/650.json": {
+      "records": 55,
+      "added": 55,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/651.json": {
+      "records": 53,
+      "added": 53,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/652.json": {
+      "records": 65,
+      "added": 65,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/653.json": {
+      "records": 55,
+      "added": 24,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/654.json": {
+      "records": 143,
+      "added": 103,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/655.json": {
+      "records": 38,
+      "added": 34,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/656.json": {
+      "records": 40,
+      "added": 35,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/657.json": {
+      "records": 40,
+      "added": 34,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/658.json": {
+      "records": 39,
+      "added": 34,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/659.json": {
+      "records": 51,
+      "added": 25,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/660.json": {
+      "records": 35,
+      "added": 24,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/661.json": {
+      "records": 32,
+      "added": 17,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/662.json": {
+      "records": 38,
+      "added": 31,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/663.json": {
+      "records": 40,
+      "added": 34,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/664.json": {
+      "records": 39,
+      "added": 27,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/665.json": {
+      "records": 73,
+      "added": 42,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/666.json": {
+      "records": 2,
+      "added": 1,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/667.json": {
+      "records": 45,
+      "added": 29,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/668.json": {
+      "records": 32,
+      "added": 9,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/669.json": {
+      "records": 26,
+      "added": 24,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/670.json": {
+      "records": 37,
+      "added": 35,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/671.json": {
+      "records": 79,
+      "added": 55,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/672.json": {
+      "records": 77,
+      "added": 33,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/673.json": {
+      "records": 46,
+      "added": 25,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/674.json": {
+      "records": 97,
+      "added": 26,
+      "duplicates": 71,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/675.json": {
+      "records": 89,
+      "added": 48,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/676.json": {
+      "records": 101,
+      "added": 77,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/677.json": {
+      "records": 24,
+      "added": 7,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/678.json": {
+      "records": 20,
+      "added": 3,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/679.json": {
+      "records": 100,
+      "added": 38,
+      "duplicates": 62,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/680.json": {
+      "records": 56,
+      "added": 41,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/681.json": {
+      "records": 82,
+      "added": 60,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/682.json": {
+      "records": 84,
+      "added": 61,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/683.json": {
+      "records": 92,
+      "added": 59,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/684.json": {
+      "records": 80,
+      "added": 56,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/685.json": {
+      "records": 67,
+      "added": 29,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/686.json": {
+      "records": 79,
+      "added": 54,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/687.json": {
+      "records": 57,
+      "added": 54,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/688.json": {
+      "records": 25,
+      "added": 15,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/689.json": {
+      "records": 30,
+      "added": 11,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/690.json": {
+      "records": 27,
+      "added": 9,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/691.json": {
+      "records": 128,
+      "added": 30,
+      "duplicates": 98,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/692.json": {
+      "records": 141,
+      "added": 140,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/693.json": {
+      "records": 55,
+      "added": 17,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/694.json": {
+      "records": 44,
+      "added": 26,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/695.json": {
+      "records": 45,
+      "added": 31,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/696.json": {
+      "records": 66,
+      "added": 47,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/697.json": {
+      "records": 67,
+      "added": 42,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/698.json": {
+      "records": 51,
+      "added": 41,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/699.json": {
+      "records": 13,
+      "added": 11,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/700.json": {
+      "records": 70,
+      "added": 34,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/701.json": {
+      "records": 56,
+      "added": 17,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/702.json": {
+      "records": 101,
+      "added": 41,
+      "duplicates": 60,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/703.json": {
+      "records": 30,
+      "added": 21,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/704.json": {
+      "records": 68,
+      "added": 19,
+      "duplicates": 49,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/705.json": {
+      "records": 75,
+      "added": 75,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/706.json": {
+      "records": 55,
+      "added": 22,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/707.json": {
+      "records": 28,
+      "added": 27,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/708.json": {
+      "records": 76,
+      "added": 64,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/709.json": {
+      "records": 65,
+      "added": 65,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/710.json": {
+      "records": 73,
+      "added": 73,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/711.json": {
+      "records": 31,
+      "added": 15,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/712.json": {
+      "records": 7,
+      "added": 5,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/713.json": {
+      "records": 18,
+      "added": 8,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/714.json": {
+      "records": 68,
+      "added": 19,
+      "duplicates": 49,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/715.json": {
+      "records": 37,
+      "added": 18,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/716.json": {
+      "records": 66,
+      "added": 26,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/717.json": {
+      "records": 71,
+      "added": 43,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/718.json": {
+      "records": 29,
+      "added": 18,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/719.json": {
+      "records": 13,
+      "added": 7,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/720.json": {
+      "records": 52,
+      "added": 17,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/721.json": {
+      "records": 48,
+      "added": 21,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/722.json": {
+      "records": 50,
+      "added": 26,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/723.json": {
+      "records": 69,
+      "added": 52,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/724.json": {
+      "records": 36,
+      "added": 11,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/725.json": {
+      "records": 34,
+      "added": 5,
+      "duplicates": 29,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/726.json": {
+      "records": 18,
+      "added": 5,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/727.json": {
+      "records": 48,
+      "added": 26,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/728.json": {
+      "records": 115,
+      "added": 28,
+      "duplicates": 87,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/729.json": {
+      "records": 80,
+      "added": 11,
+      "duplicates": 69,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/730.json": {
+      "records": 19,
+      "added": 5,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/731.json": {
+      "records": 28,
+      "added": 20,
+      "duplicates": 8,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/732.json": {
+      "records": 20,
+      "added": 7,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/733.json": {
+      "records": 22,
+      "added": 13,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/734.json": {
+      "records": 27,
+      "added": 12,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/735.json": {
+      "records": 9,
+      "added": 5,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/736.json": {
+      "records": 15,
+      "added": 12,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/737.json": {
+      "records": 33,
+      "added": 16,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/738.json": {
+      "records": 20,
+      "added": 9,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/739.json": {
+      "records": 89,
+      "added": 55,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/740.json": {
+      "records": 30,
+      "added": 15,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/741.json": {
+      "records": 13,
+      "added": 3,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/742.json": {
+      "records": 19,
+      "added": 14,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/743.json": {
+      "records": 20,
+      "added": 16,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/744.json": {
+      "records": 22,
+      "added": 21,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/745.json": {
+      "records": 48,
+      "added": 34,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/746.json": {
+      "records": 62,
+      "added": 41,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/747.json": {
+      "records": 91,
+      "added": 52,
+      "duplicates": 39,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/748.json": {
+      "records": 83,
+      "added": 55,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/749.json": {
+      "records": 70,
+      "added": 36,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/750.json": {
+      "records": 43,
+      "added": 27,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/751.json": {
+      "records": 30,
+      "added": 19,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/752.json": {
+      "records": 52,
+      "added": 30,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/753.json": {
+      "records": 25,
+      "added": 18,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/754.json": {
+      "records": 43,
+      "added": 26,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/755.json": {
+      "records": 57,
+      "added": 36,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/756.json": {
+      "records": 47,
+      "added": 27,
+      "duplicates": 20,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/757.json": {
+      "records": 46,
+      "added": 16,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/758.json": {
+      "records": 31,
+      "added": 3,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/759.json": {
+      "records": 20,
+      "added": 4,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/760.json": {
+      "records": 18,
+      "added": 13,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/761.json": {
+      "records": 25,
+      "added": 16,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/762.json": {
+      "records": 53,
+      "added": 18,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/763.json": {
+      "records": 24,
+      "added": 12,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/764.json": {
+      "records": 40,
+      "added": 40,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/765.json": {
+      "records": 53,
+      "added": 21,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/766.json": {
+      "records": 73,
+      "added": 70,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/767.json": {
+      "records": 75,
+      "added": 16,
+      "duplicates": 59,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/768.json": {
+      "records": 37,
+      "added": 18,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/769.json": {
+      "records": 37,
+      "added": 6,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/770.json": {
+      "records": 47,
+      "added": 13,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/771.json": {
+      "records": 27,
+      "added": 8,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/772.json": {
+      "records": 18,
+      "added": 9,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/773.json": {
+      "records": 26,
+      "added": 11,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/774.json": {
+      "records": 33,
+      "added": 15,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/775.json": {
+      "records": 29,
+      "added": 11,
+      "duplicates": 18,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/776.json": {
+      "records": 29,
+      "added": 15,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/777.json": {
+      "records": 21,
+      "added": 9,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/778.json": {
+      "records": 19,
+      "added": 5,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/779.json": {
+      "records": 26,
+      "added": 13,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/780.json": {
+      "records": 29,
+      "added": 13,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/781.json": {
+      "records": 18,
+      "added": 8,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/782.json": {
+      "records": 23,
+      "added": 11,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/783.json": {
+      "records": 19,
+      "added": 9,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/784.json": {
+      "records": 35,
+      "added": 12,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/785.json": {
+      "records": 27,
+      "added": 22,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/786.json": {
+      "records": 30,
+      "added": 13,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/787.json": {
+      "records": 43,
+      "added": 21,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/788.json": {
+      "records": 23,
+      "added": 23,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/789.json": {
+      "records": 17,
+      "added": 17,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/790.json": {
+      "records": 16,
+      "added": 16,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/791.json": {
+      "records": 16,
+      "added": 16,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/792.json": {
+      "records": 21,
+      "added": 21,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/793.json": {
+      "records": 9,
+      "added": 9,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/794.json": {
+      "records": 32,
+      "added": 32,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/795.json": {
+      "records": 141,
+      "added": 72,
+      "duplicates": 69,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/796.json": {
+      "records": 103,
+      "added": 99,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/797.json": {
+      "records": 13,
+      "added": 0,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/798.json": {
+      "records": 2,
+      "added": 1,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/799.json": {
+      "records": 54,
+      "added": 22,
+      "duplicates": 32,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/800.json": {
+      "records": 30,
+      "added": 15,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/801.json": {
+      "records": 59,
+      "added": 26,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/802.json": {
+      "records": 43,
+      "added": 12,
+      "duplicates": 31,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/803.json": {
+      "records": 77,
+      "added": 22,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/804.json": {
+      "records": 49,
+      "added": 33,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/805.json": {
+      "records": 21,
+      "added": 9,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/806.json": {
+      "records": 3,
+      "added": 3,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/807.json": {
+      "records": 2,
+      "added": 2,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/808.json": {
+      "records": 34,
+      "added": 18,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/809.json": {
+      "records": 43,
+      "added": 15,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/810.json": {
+      "records": 25,
+      "added": 10,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/811.json": {
+      "records": 29,
+      "added": 14,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/812.json": {
+      "records": 22,
+      "added": 9,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/813.json": {
+      "records": 55,
+      "added": 20,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/814.json": {
+      "records": 43,
+      "added": 17,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/815.json": {
+      "records": 65,
+      "added": 31,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/816.json": {
+      "records": 59,
+      "added": 22,
+      "duplicates": 37,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/817.json": {
+      "records": 74,
+      "added": 31,
+      "duplicates": 43,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/818.json": {
+      "records": 77,
+      "added": 25,
+      "duplicates": 52,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/819.json": {
+      "records": 71,
+      "added": 18,
+      "duplicates": 53,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/820.json": {
+      "records": 71,
+      "added": 31,
+      "duplicates": 40,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/821.json": {
+      "records": 47,
+      "added": 40,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/822.json": {
+      "records": 16,
+      "added": 13,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/823.json": {
+      "records": 43,
+      "added": 18,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/824.json": {
+      "records": 24,
+      "added": 11,
+      "duplicates": 13,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/825.json": {
+      "records": 40,
+      "added": 21,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/826.json": {
+      "records": 39,
+      "added": 28,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/827.json": {
+      "records": 37,
+      "added": 31,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/828.json": {
+      "records": 40,
+      "added": 35,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/829.json": {
+      "records": 56,
+      "added": 21,
+      "duplicates": 35,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/830.json": {
+      "records": 57,
+      "added": 30,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/831.json": {
+      "records": 48,
+      "added": 21,
+      "duplicates": 27,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/832.json": {
+      "records": 55,
+      "added": 25,
+      "duplicates": 30,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/833.json": {
+      "records": 50,
+      "added": 24,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/834.json": {
+      "records": 24,
+      "added": 7,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/835.json": {
+      "records": 35,
+      "added": 29,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/836.json": {
+      "records": 35,
+      "added": 28,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/837.json": {
+      "records": 56,
+      "added": 42,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/838.json": {
+      "records": 79,
+      "added": 27,
+      "duplicates": 52,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/839.json": {
+      "records": 79,
+      "added": 27,
+      "duplicates": 52,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/840.json": {
+      "records": 78,
+      "added": 34,
+      "duplicates": 44,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/841.json": {
+      "records": 78,
+      "added": 27,
+      "duplicates": 51,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/842.json": {
+      "records": 64,
+      "added": 19,
+      "duplicates": 45,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/843.json": {
+      "records": 79,
+      "added": 32,
+      "duplicates": 47,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/844.json": {
+      "records": 79,
+      "added": 79,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/845.json": {
+      "records": 75,
+      "added": 75,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/846.json": {
+      "records": 79,
+      "added": 63,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/847.json": {
+      "records": 80,
+      "added": 44,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/848.json": {
+      "records": 60,
+      "added": 32,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/849.json": {
+      "records": 44,
+      "added": 16,
+      "duplicates": 28,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/850.json": {
+      "records": 28,
+      "added": 14,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/851.json": {
+      "records": 20,
+      "added": 5,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/852.json": {
+      "records": 12,
+      "added": 8,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/853.json": {
+      "records": 73,
+      "added": 19,
+      "duplicates": 54,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/854.json": {
+      "records": 29,
+      "added": 18,
+      "duplicates": 11,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/855.json": {
+      "records": 20,
+      "added": 10,
+      "duplicates": 10,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/856.json": {
+      "records": 4,
+      "added": 3,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/857.json": {
+      "records": 4,
+      "added": 4,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/858.json": {
+      "records": 48,
+      "added": 24,
+      "duplicates": 24,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/859.json": {
+      "records": 35,
+      "added": 14,
+      "duplicates": 21,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/860.json": {
+      "records": 20,
+      "added": 11,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/861.json": {
+      "records": 45,
+      "added": 19,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/862.json": {
+      "records": 39,
+      "added": 16,
+      "duplicates": 23,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/863.json": {
+      "records": 43,
+      "added": 10,
+      "duplicates": 33,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/864.json": {
+      "records": 36,
+      "added": 17,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/865.json": {
+      "records": 29,
+      "added": 12,
+      "duplicates": 17,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/866.json": {
+      "records": 64,
+      "added": 26,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/867.json": {
+      "records": 61,
+      "added": 25,
+      "duplicates": 36,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/868.json": {
+      "records": 31,
+      "added": 12,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/869.json": {
+      "records": 52,
+      "added": 18,
+      "duplicates": 34,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/870.json": {
+      "records": 72,
+      "added": 31,
+      "duplicates": 41,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/871.json": {
+      "records": 24,
+      "added": 10,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/872.json": {
+      "records": 33,
+      "added": 7,
+      "duplicates": 26,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/873.json": {
+      "records": 16,
+      "added": 4,
+      "duplicates": 12,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/874.json": {
+      "records": 30,
+      "added": 5,
+      "duplicates": 25,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/875.json": {
+      "records": 73,
+      "added": 18,
+      "duplicates": 55,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/876.json": {
+      "records": 90,
+      "added": 8,
+      "duplicates": 82,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/877.json": {
+      "records": 43,
+      "added": 5,
+      "duplicates": 38,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/878.json": {
+      "records": 60,
+      "added": 11,
+      "duplicates": 49,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/879.json": {
+      "records": 15,
+      "added": 10,
+      "duplicates": 5,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/880.json": {
+      "records": 23,
+      "added": 9,
+      "duplicates": 14,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/881.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/882.json": {
+      "records": 35,
+      "added": 16,
+      "duplicates": 19,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/883.json": {
+      "records": 35,
+      "added": 20,
+      "duplicates": 15,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/884.json": {
+      "records": 52,
+      "added": 36,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/885.json": {
+      "records": 44,
+      "added": 28,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/886.json": {
+      "records": 47,
+      "added": 25,
+      "duplicates": 22,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/887.json": {
+      "records": 33,
+      "added": 17,
+      "duplicates": 16,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/888.json": {
+      "records": 18,
+      "added": 9,
+      "duplicates": 9,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/889.json": {
+      "records": 33,
+      "added": 29,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/890.json": {
+      "records": 31,
+      "added": 29,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/891.json": {
+      "records": 35,
+      "added": 28,
+      "duplicates": 7,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/892.json": {
+      "records": 34,
+      "added": 30,
+      "duplicates": 4,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/893.json": {
+      "records": 41,
+      "added": 38,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/894.json": {
+      "records": 28,
+      "added": 25,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/895.json": {
+      "records": 33,
+      "added": 30,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/896.json": {
+      "records": 35,
+      "added": 32,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/897.json": {
+      "records": 35,
+      "added": 33,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/898.json": {
+      "records": 47,
+      "added": 41,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/899.json": {
+      "records": 19,
+      "added": 16,
+      "duplicates": 3,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "御定全唐詩/json/900.json": {
+      "records": 18,
+      "added": 12,
+      "duplicates": 6,
+      "empty": 0,
+      "collection": "御定全唐诗"
+    },
+    "曹操诗集/caocao.json": {
+      "records": 26,
+      "added": 26,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "曹操诗集"
+    },
+    "楚辞/chuci.json": {
+      "records": 65,
+      "added": 65,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "楚辞"
+    },
+    "水墨唐诗/shuimotangshi.json": {
+      "records": 176,
+      "added": 65,
+      "duplicates": 111,
+      "empty": 0,
+      "collection": "水墨唐诗"
+    },
+    "纳兰性德/纳兰性德诗集.json": {
+      "records": 258,
+      "added": 256,
+      "duplicates": 2,
+      "empty": 0,
+      "collection": "纳兰性德诗集"
+    },
+    "蒙学/baijiaxing.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "百家姓"
+    },
+    "蒙学/dizigui.json": {
+      "records": 8,
+      "added": 8,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "弟子规"
+    },
+    "蒙学/guwenguanzhi.json": {
+      "records": 222,
+      "added": 221,
+      "duplicates": 1,
+      "empty": 0,
+      "collection": "古文观止"
+    },
+    "蒙学/qianjiashi.json": {
+      "records": 226,
+      "added": 0,
+      "duplicates": 226,
+      "empty": 0,
+      "collection": "千家诗"
+    },
+    "蒙学/qianziwen.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "千字文"
+    },
+    "蒙学/sanzijing-new.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "三字经（新版）"
+    },
+    "蒙学/sanzijing-traditional.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "三字经（传统版）"
+    },
+    "蒙学/shenglvqimeng.json": {
+      "records": 30,
+      "added": 30,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "声律启蒙"
+    },
+    "蒙学/tangshisanbaishou.json": {
+      "records": 320,
+      "added": 0,
+      "duplicates": 320,
+      "empty": 0,
+      "collection": "唐诗三百首"
+    },
+    "蒙学/wenzimengqiu.json": {
+      "records": 4,
+      "added": 4,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "文字蒙求"
+    },
+    "蒙学/youxueqionglin.json": {
+      "records": 33,
+      "added": 33,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "幼学琼林"
+    },
+    "蒙学/zengguangxianwen.json": {
+      "records": 2,
+      "added": 2,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "增广贤文"
+    },
+    "蒙学/zhuzijiaxun.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "朱子家训"
+    },
+    "论语/lunyu.json": {
+      "records": 20,
+      "added": 20,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "论语"
+    },
+    "诗经/shijing.json": {
+      "records": 305,
+      "added": 305,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "诗经"
+    },
+    "全唐诗/唐诗补录.json": {
+      "records": 1,
+      "added": 1,
+      "duplicates": 0,
+      "empty": 0,
+      "collection": "唐诗补录"
+    },
+    "全唐诗/唐诗三百首.json": {
+      "records": 366,
+      "added": 0,
+      "duplicates": 366,
+      "empty": 0,
+      "collection": "唐诗三百首"
+    },
+    "宋词/宋词三百首.json": {
+      "records": 280,
+      "added": 56,
+      "duplicates": 224,
+      "empty": 0,
+      "collection": "宋词三百首"
+    }
+  },
+  "scope": "Literary-content JSON collections at pinned commit; supplemental anthologies included; metadata, rankings, metrical error records and loader configuration are not counted as works."
+}

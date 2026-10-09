@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/chinese-poetry/chinese-poetry",
+  "commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "files": [
+    "蒙学/tangshisanbaishou.json",
+    "蒙学/qianjiashi.json"
+  ],
+  "count": 527,
+  "processing": "OpenCC t2s; remove parenthetical variant notes from analysis text; deduplicate by normalized body; retain source paragraphs."
+}

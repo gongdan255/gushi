@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>诗境 · 在字里行间，遇见山河</title>
+  <meta name="description" content="探索古诗词里的意象与风物，检索经典诗作，体验诗句填空与飞花令。">
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/vendor/echarts.min.js" defer></script>
+  <script src="/static/app.js" defer></script>
+  <script src="/static/dropdowns.js" defer></script>
+  <script src="/static/puzzle.js" defer></script>
+  <script src="/static/custom-feihua.js" defer></script>
+  <script src="/static/insights.js" defer></script>
+</head>
+<body>
+<header class="header"><div class="brand"><span class="seal">诗</span><a href="#overview">诗境<small>SHIJING</small></a><span class="brand-rule"></span><span class="brand-sub">古典诗词的数字雅集</span></div>
+<nav aria-label="主导航"><a href="#overview" data-nav="overview"><span>01</span> 诗词概览</a><a href="#explore" data-nav="explore"><span>02</span> 诗词探索</a><a href="#challenge" data-nav="challenge"><span>03</span> 诗词挑战</a></nav>
+<button class="text-button header-random" data-action="random">随手翻一篇 <span>↗</span></button></header>
+<main>
+<section id="overview" class="page">
+  <div class="page-heading"><div><div class="eyebrow">THE POETRY ATLAS / 诗词图鉴</div><h1>在字里行间，<em>遇见山河。</em></h1><p>从一字一词出发，读见古人的万千世界。</p></div><div class="edition"><span>诗 · 词 · 曲 · 古文</span><small>全库检索 / 精选挑战</small></div></div>
+  <div id="stats" class="stats"><div class="loading">正在翻开诗集…</div></div>
+  <div class="dashboard-grid"><article class="panel word-panel"><div class="panel-head"><div><span class="section-number">01 /</span><h2>字里乾坤</h2><p>诗人们反复写下的词，藏着怎样的世界？</p></div><span class="badge">高频词</span></div><div id="word-cloud" class="word-cloud" aria-label="高频词，点击查找诗词"></div><div class="panel-foot"><span>点击词语，循词入诗</span><button class="text-button" id="toggle-words">查看词频排行 ↗</button></div><div id="word-bars" hidden></div></article>
+  <article class="daily-card"><div class="daily-label"><span>今日 · 一读</span><span>DAILY POEM</span></div><div class="daily-decoration" aria-hidden="true">月</div><div id="daily-poem" class="daily-poem"></div><button class="daily-button" id="daily-open">展开这首诗 <span>↗</span></button></article>
+  <article class="panel"><div class="panel-head"><div><span class="section-number">02 /</span><h2>诗中四季</h2><p>诗词曲正文含季节字的篇数</p></div><span class="tiny-mark">篇</span></div><p class="insight-note">每篇每字计一次，可同时计入多个季节。点击柱形查看作品。</p><div id="season-chart" class="chart" aria-label="春夏秋冬含字篇数"></div></article>
+  <article class="panel"><div class="panel-head"><div><span class="section-number">03 /</span><h2>意象共现图</h2><p>同篇共现越多，连线越粗</p></div></div><p class="insight-note">12 个常见意象字 · 展示共现最多的 18 组，点击连线查看作品。字面共现不代表主题或情感。</p><div id="cooccurrence-chart" class="chart" aria-label="意象字共现关系"></div></article>
+  <article class="panel motif-panel"><div class="panel-head"><div><span class="section-number">04 /</span><h2>一字一意象</h2><p>含有该字的作品数量，每篇只计一次</p></div><span class="badge">循字探寻</span></div><div id="motifs" class="motifs"></div></article></div>
+  <details class="data-note"><summary>关于数据与统计口径 <span>＋</span></summary><p id="data-info"></p><p>文本由繁体转换为简体，移除括号内异文注记后按正文去重。高频词采用 jieba 分词，过滤标点、单字与部分停用词；古诗分词可能存在偏差。意象图采用字面匹配，不能直接代表主题或情感。排行仅代表本库选本收录情况。</p><a href="https://github.com/chinese-poetry/chinese-poetry" target="_blank" rel="noopener">查看数据来源 ↗</a></details>
+</section>
+<section id="explore" class="page" hidden>
+  <div class="page-heading"><div><div class="eyebrow">POETRY COLLECTION / 诗词探索</div><h1>寻一首诗，<em>与此刻相逢。</em></h1><p>记得一句、一个人，或只是一个字，都可以从这里开始。</p></div><button class="outline-button" data-action="random">随机读一篇 ↗</button></div>
+  <div class="search-panel"><form id="search-form" class="search-form"><span aria-hidden="true">⌕</span><input id="search" aria-label="搜索标题、作者或正文" placeholder="搜索标题、作者或正文…" maxlength="100"><button class="primary-button">寻诗</button></form><div class="filters"><label>类型<select id="kind-filter"><option value="">全部类型</option></select></label><label>来源选集<select id="collection-filter"><option value="">全部选集</option></select></label><label>朝代<select id="dynasty-filter"><option value="">全部朝代</option></select></label><label>常见作者<select id="author-filter"><option value="">全部作者</option></select></label><label>主题<select id="theme-filter"><option value="">全部主题</option></select></label><label class="check-label"><input type="checkbox" id="favorites-only">只看收藏</label><button class="text-button" id="clear-filters">重置筛选</button></div></div>
+  <div class="result-head"><p id="result-count" aria-live="polite"></p><span>主题由关键词规则辅助标注</span></div><div id="poem-grid" class="poem-grid"></div><div id="pagination" class="pagination"></div>
+</section>
+<section id="challenge" class="page" hidden>
+  <div class="page-heading"><div><div class="eyebrow">A LITTLE POETRY PLAY / 诗词挑战</div><h1>以诗会友，<em>落字成趣。</em></h1><p>那些读过的诗，是否还在你的记忆里？</p></div><div class="edition"><span>温故 · 知新</span><small>成绩仅保存在当前浏览器</small></div></div>
+  <div class="challenge-tabs" role="tablist" aria-label="挑战类型"><button role="tab" aria-selected="true" data-game="quiz">01 诗句填空</button><button role="tab" aria-selected="false" data-game="feihua">02 飞花令</button><button role="tab" aria-selected="false" data-game="puzzle">03 诗句拼图</button></div>
+  <div class="challenge-layout"><div class="game-panel" id="game-area"></div><aside class="game-aside"><span class="eyebrow">我的诗词足迹</span><h2>日积一字，<br>自有回响。</h2><div id="game-records"></div><div class="rule-note"><h3>一份小小的约定</h3><p id="game-rules"></p></div><span class="aside-seal">温故知新</span></aside></div>
+</section>
+</main>
+<footer><div><span class="footer-brand">诗境</span><span>让古老的文字，在此刻相逢。</span></div><span>数据：chinese-poetry 开源诗词库</span></footer>
+<dialog id="poem-dialog"><button id="close-dialog" class="dialog-close" aria-label="关闭详情">×</button><div id="poem-detail"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+</body></html>
